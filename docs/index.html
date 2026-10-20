@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fire Service Daily</title>
+<meta name="description" content="Fire service news, research and publications, updated every morning.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f4f2ef; --card: #ffffff; --ink: #1c1b1a; --muted: #6b6662;
+    --line: #e2ddd7; --red: #b3121b; --red-soft: #fbe9e9; --chip: #ebe7e2;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #121110; --card: #1c1a19; --ink: #f1eeea; --muted: #a49d96;
+      --line: #2e2b29; --red: #e8414a; --red-soft: #3a1b1d; --chip: #2a2725;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.5 Inter, system-ui, sans-serif; }
+  header { background: #161514; color: #fff; border-bottom: 4px solid var(--red); }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
+  .top { display: flex; align-items: center; justify-content: space-between;
+         gap: 12px; padding: 22px 0 18px; flex-wrap: wrap; }
+  h1 { font: 700 30px/1 Oswald, sans-serif; letter-spacing: .5px; margin: 0;
+       text-transform: uppercase; }
+  h1 span { color: #ff4d55; }
+  .updated { color: #bdb6ae; font-size: 13px; }
+  .controls { position: sticky; top: 0; z-index: 5; background: var(--bg);
+              border-bottom: 1px solid var(--line); padding: 12px 0; }
+  .search { width: 100%; padding: 11px 14px; font: inherit; color: var(--ink);
+            background: var(--card); border: 1px solid var(--line); border-radius: 8px; }
+  .search:focus { outline: 2px solid var(--red); border-color: transparent; }
+  .chips { display: flex; gap: 8px; overflow-x: auto; padding-top: 10px;
+           scrollbar-width: none; }
+  .chip { flex: none; border: 0; cursor: pointer; font: 600 13px Inter, sans-serif;
+          padding: 7px 13px; border-radius: 999px; background: var(--chip); color: var(--ink); }
+  .chip[aria-pressed="true"] { background: var(--red); color: #fff; }
+  .chip small { opacity: .7; font-weight: 500; margin-left: 3px; }
+  main { padding: 20px 0 50px; }
+  .day { font: 500 14px Oswald, sans-serif; text-transform: uppercase; letter-spacing: 1px;
+         color: var(--muted); margin: 22px 0 10px; }
+  .grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  .card { display: flex; flex-direction: column; gap: 6px; padding: 16px;
+          background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+          text-decoration: none; color: inherit; transition: border-color .15s, transform .15s; }
+  .card:hover { border-color: var(--red); transform: translateY(-1px); }
+  .meta { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); }
+  .tag { font-weight: 600; color: var(--red); background: var(--red-soft);
+         padding: 2px 8px; border-radius: 4px; }
+  .card h2 { font-size: 16px; line-height: 1.35; margin: 2px 0 0; font-weight: 600; }
+  .card p { margin: 0; color: var(--muted); font-size: 14px; }
+  .empty { text-align: center; color: var(--muted); padding: 60px 0; }
+  footer { border-top: 1px solid var(--line); padding: 18px 0 30px; color: var(--muted); font-size: 12px; }
+  @media (max-width: 520px) { h1 { font-size: 24px; } .grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <h1>Fire Service <span>Daily</span></h1>
+    <div class="updated" id="updated">Loading…</div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="wrap">
+    <input class="search" id="q" type="search" placeholder="Search headlines…" aria-label="Search headlines">
+    <div class="chips" id="chips"></div>
+  </div>
+</div>
+
+<main class="wrap" id="list"></main>
+
+<footer class="wrap">
+  Headlines link to the original publishers. Updated automatically every morning.
+  <span id="srcs"></span>
+</footer>
+
+<script>
+const ORDER = ["All","Local","Florida","LODD","News","Training","EMS","Research","Publications","Apparatus & Gear"];
+let data = { items: [] }, cat = "All", query = "";
+
+try { const c = new URLSearchParams(location.search).get("cat"); if (c) cat = c; } catch (e) {}
+
+function esc(s) { return String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function dayLabel(iso) {
+  if (!iso) return "Recent";
+  const d = new Date(iso), now = new Date();
+  const diff = Math.floor((new Date(now.toDateString()) - new Date(d.toDateString())) / 864e5);
+  if (diff === 0) return "Today";
+  if (diff === 1) return "Yesterday";
+  return d.toLocaleDateString(undefined, { weekday: "long", month: "short", day: "numeric" });
+}
+
+function renderChips() {
+  const counts = {};
+  data.items.forEach(i => counts[i.category] = (counts[i.category] || 0) + 1);
+  const cats = ORDER.filter(c => c === "All" || counts[c])
+    .concat(Object.keys(counts).filter(c => !ORDER.includes(c)));
+  document.getElementById("chips").innerHTML = cats.map(c =>
+    `<button class="chip" aria-pressed="${c === cat}" data-c="${esc(c)}">${esc(c)}<small>${c === "All" ? data.items.length : counts[c]}</small></button>`
+  ).join("");
+}
+
+function render() {
+  const q = query.toLowerCase();
+  const items = data.items.filter(i =>
+    (cat === "All" || i.category === cat) &&
+    (!q || (i.title + " " + i.summary + " " + i.source).toLowerCase().includes(q)));
+  const list = document.getElementById("list");
+  if (!items.length) { list.innerHTML = `<div class="empty">No articles match.</div>`; return; }
+  let html = "", last = null, open = false;
+  items.forEach(i => {
+    const lbl = dayLabel(i.date);
+    if (lbl !== last) {
+      if (open) html += "</div>";
+      html += `<div class="day">${esc(lbl)}</div><div class="grid">`;
+      last = lbl; open = true;
+    }
+    html += `<a class="card" href="${esc(i.link)}" target="_blank" rel="noopener">
+      <div class="meta"><span class="tag">${esc(i.category)}</span><span>${esc(i.source)}</span></div>
+      <h2>${esc(i.title)}</h2>${i.summary ? `<p>${esc(i.summary)}</p>` : ""}</a>`;
+  });
+  list.innerHTML = html + (open ? "</div>" : "");
+}
+
+document.getElementById("chips").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  cat = b.dataset.c; renderChips(); render();
+});
+document.getElementById("q").addEventListener("input", e => { query = e.target.value; render(); });
+
+fetch("news.json?v=" + Date.now()).then(r => r.json()).then(d => {
+  data = d;
+  if (cat !== "All" && !d.items.some(i => i.category === cat)) cat = "All";
+  document.getElementById("updated").textContent = "Updated " +
+    new Date(d.updated).toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+  const ok = d.sources.filter(s => s.ok).length;
+  document.getElementById("srcs").textContent = `${ok} of ${d.sources.length} sources checked in today.`;
+  renderChips(); render();
+}).catch(() => {
+  document.getElementById("updated").textContent = "";
+  document.getElementById("list").innerHTML = `<div class="empty">News couldn't load. Try again shortly.</div>`;
+});
+</script>
+</body>
+</html>

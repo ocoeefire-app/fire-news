@@ -1,0 +1,94 @@
+[
+ {
+  "name": "Statter911",
+  "url": "https://www.statter911.com/feed/",
+  "category": "News"
+ },
+ {
+  "name": "Fire Engineering",
+  "url": "https://www.fireengineering.com/feed/",
+  "category": "Training"
+ },
+ {
+  "name": "Firefighter Nation",
+  "url": "https://www.firefighternation.com/feed/",
+  "category": "News"
+ },
+ {
+  "name": "Fire Apparatus Magazine",
+  "url": "https://www.fireapparatusmagazine.com/feed/",
+  "category": "Apparatus & Gear"
+ },
+ {
+  "name": "FireRescue1",
+  "url": "https://www.firerescue1.com/index.rss",
+  "category": "News"
+ },
+ {
+  "name": "Firehouse",
+  "url": "https://www.firehouse.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D",
+  "category": "News"
+ },
+ {
+  "name": "EMS1",
+  "url": "https://www.ems1.com/index.rss",
+  "category": "EMS"
+ },
+ {
+  "name": "JEMS",
+  "url": "https://www.jems.com/feed/",
+  "category": "EMS"
+ },
+ {
+  "name": "UL FSRI (news)",
+  "url": "https://news.google.com/rss/search?q=%22Fire+Safety+Research+Institute%22+OR+%22UL+FSRI%22&hl=en-US&gl=US&ceid=US:en",
+  "category": "Research",
+  "google": true
+ },
+ {
+  "name": "NIST Fire Research",
+  "url": "https://www.nist.gov/news-events/fire/rss.xml",
+  "category": "Research"
+ },
+ {
+  "name": "USFA",
+  "url": "https://www.usfa.fema.gov/rss/blog.xml",
+  "category": "Publications"
+ },
+ {
+  "name": "NFPA (news)",
+  "url": "https://news.google.com/rss/search?q=NFPA+fire+report+OR+standard&hl=en-US&gl=US&ceid=US:en",
+  "category": "Publications",
+  "google": true
+ },
+ {
+  "name": "Line of Duty Deaths (news)",
+  "url": "https://news.google.com/rss/search?q=firefighter+line+of+duty+death&hl=en-US&gl=US&ceid=US:en",
+  "category": "LODD",
+  "google": true
+ },
+ {
+  "name": "NIOSH Fatality Reports (news)",
+  "url": "https://news.google.com/rss/search?q=NIOSH+firefighter+fatality+report&hl=en-US&gl=US&ceid=US:en",
+  "category": "LODD",
+  "google": true
+ },
+ {
+  "name": "Florida Fire Service (news)",
+  "url": "https://news.google.com/rss/search?q=Florida+fire+rescue+firefighters&hl=en-US&gl=US&ceid=US:en",
+  "category": "Florida",
+  "google": true
+ },
+ {
+  "name": "Ocoee / West Orange (news)",
+  "url": "https://news.google.com/rss/search?q=Ocoee+fire+rescue&hl=en-US&gl=US&ceid=US:en",
+  "category": "Local",
+  "google": true
+ },
+ {
+  "name": "Orange County Fire Rescue (news)",
+  "url": "https://news.google.com/rss/search?q=%22Orange+County+Fire+Rescue%22+Florida&hl=en-US&gl=US&ceid=US:en",
+  "category": "Local",
+  "google": true
+ }
+]
