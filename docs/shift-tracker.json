@@ -62,9 +62,9 @@
    "name": "Polk County Fire Rescue",
    "region": "Central FL",
    "status": "staffing",
-   "detail": "Tentative agreement for a D-shift (24/72) reached July 2026, targeting Oct. 1, 2027. Staffing up with 75 positions added in 2024 and 50 SAFER-funded positions. Final commission vote still pending.",
-   "source": "https://www.polkfl.gov/news/polk-county-and-firefighters-union-tentatively-agree-upon-d-shift/",
-   "updated": "2026-07-17"
+   "detail": "Firefighters' union tentatively agreed to a D-shift (24/72, 42 hours) in July 2026, targeting Oct. 1, 2027. In October 2026 the paramedics' union (IAEP) also reached a tentative deal adding a fourth shift. Final county approval still pending.",
+   "source": "https://yahoo.com/news/us/articles/polk-paramedics-secure-contract-fourth-090327280.html",
+   "updated": "2026-10-16"
   },
   {
    "name": "St. Johns County Fire Rescue",
@@ -145,6 +145,62 @@
    "detail": "The 2025\u20132028 contract keeps a 48-hour week with Kelly Days but adds flex days in 2027 and 2028 explicitly as a step toward a reduced work week.",
    "source": "https://www.tampa.gov/sites/default/files/document/2026/iaff-2025-2028-ratified-with-pay-tables-and-signatures-ada-compliant.pdf",
    "updated": "2025-10-01"
+  },
+  {
+   "name": "Boca Raton Fire Rescue",
+   "region": "South FL",
+   "status": "on",
+   "detail": "Has worked 24 on / 72 off for decades, according to Palm Beach Gardens' fire chief in 2024 coverage of neighboring departments' schedules.",
+   "source": "https://www.yahoo.com/news/palm-beach-gardens-raises-firefighter-090319217.html",
+   "updated": "2024-10-09"
+  },
+  {
+   "name": "North Collier Fire Rescue",
+   "region": "Southwest FL",
+   "status": "on",
+   "detail": "2025\u20132028 contract put the Rescue Division on 24/72 at ratification (Oct. 2025) and requires Operations to move to a four-platoon 24/72 no later than Oct. 1, 2026.",
+   "source": "https://www.northcollierfire.com/files/assets/public/v/1/documents/cba-2025-2028_final__20260205.pdf",
+   "updated": "2026-02-05"
+  },
+  {
+   "name": "Palm Beach Gardens Fire Rescue",
+   "region": "South FL",
+   "status": "staffing",
+   "detail": "Contract approved in 2024 moves crews from 24/48 (48 hours) to 24/72 (42 hours) in its third year, starting October 2026, with about 15 extra hires. Start not yet confirmed.",
+   "source": "https://www.yahoo.com/news/palm-beach-gardens-raises-firefighter-090319217.html",
+   "updated": "2024-10-09"
+  },
+  {
+   "name": "Deerfield Beach (new city fire department)",
+   "region": "South FL",
+   "status": "staffing",
+   "detail": "City voted in January 2026 to leave Broward Sheriff's Fire Rescue and start its own department within about 20 months. Its feasibility study recommends four squads on a 24/72 schedule.",
+   "source": "https://www.deerfield-beach.com/DocumentCenter/View/21220",
+   "updated": "2026-01-21"
+  },
+  {
+   "name": "Highland Beach Fire Rescue",
+   "region": "South FL",
+   "status": "talks",
+   "detail": "Named in 2024 as one of the Palm Beach County coastal departments following Boca Raton toward 24/72. Its recent job posting still lists a 48-hour week, so the switch isn't confirmed.",
+   "source": "https://www.yahoo.com/news/palm-beach-gardens-raises-firefighter-090319217.html",
+   "updated": "2024-10-09"
+  },
+  {
+   "name": "Tamarac Fire Rescue",
+   "region": "South FL",
+   "status": "talks",
+   "detail": "The 2024\u20132027 contract keeps a 48-hour 24/48 schedule but requires the city to meet the union by Oct. 25, 2026 on a plan, costs and staffing for moving to 24/72.",
+   "source": "https://www.tamarac.gov/DocumentCenter/View/12408/Fire-Collective-Bargaining-Agreement-2024-2027",
+   "updated": "2024-10-01"
+  },
+  {
+   "name": "Tavares Fire Department",
+   "region": "Central FL",
+   "status": "talks",
+   "detail": "A one-year contract approved Aug. 5, 2026 sets up a labor-management committee to study moving to a 42-hour week, subject to funding and a later council vote. Crews currently work 24/48.",
+   "source": "https://citizenportal.ai/articles/10195008/florida/lake-county/tavares/tavares-approves-oneyear-firefighters-contract-committee-to-study-move-to-42hour-week",
+   "updated": "2026-08-05"
   }
  ]
 }
