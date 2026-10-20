@@ -21,6 +21,8 @@ OUT = ROOT / "docs" / "news.json"
 MAX_AGE_DAYS = 30        # drop anything older than this
 MAX_PER_SOURCE = 25      # keep each source from flooding the page
 SUMMARY_CHARS = 220      # short teaser only; full article stays on the source site
+# Headlines matching this are dropped (other states' look-alike names, etc.)
+EXCLUDE = re.compile(r"Orange County Fire Authority|OCFA|Local 3631|California|Calif\.", re.I)
 USER_AGENT = "OcoeeFireNews/1.0 (+https://github.com/ocoeefire-app/fire-news)"
 
 
@@ -51,7 +53,6 @@ def norm_title(t: str) -> str:
 
 def main() -> int:
     sources = json.loads(SOURCES.read_text())
-    cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
     items, seen_links, seen_titles, status = [], set(), set(), []
 
     for src in sources:
@@ -71,10 +72,11 @@ def main() -> int:
                 break
             title = clean(e.get("title", ""))
             link = e.get("link", "")
-            if not title or not link:
+            if not title or not link or EXCLUDE.search(title):
                 continue
             when = entry_time(e)
-            if when and when < cutoff:
+            limit = datetime.now(timezone.utc) - timedelta(days=src.get("max_age_days", MAX_AGE_DAYS))
+            if when and when < limit:
                 continue
             now = datetime.now(timezone.utc)
             if when and when > now:  # event listings use the event date; show them as new today

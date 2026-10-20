@@ -1,0 +1,38 @@
+{
+ "lastReviewed": "2026-10-20",
+ "note": "Built from news coverage and county/city announcements. Not every Florida department is listed yet; departments are added as they show up in the news.",
+ "departments": [
+  {"name": "Kissimmee Fire Department", "region": "Central FL", "status": "on",
+   "detail": "First Central Florida department on 24/72. Started April 25, 2026 after hiring 49 firefighters, paid for with a new fire assessment fee.",
+   "source": "https://www.clickorlando.com/news/local/2026/04/07/kissimmee-firefighters-set-to-begin-2472-shift-schedule/", "updated": "2026-04-07"},
+  {"name": "Pasco County Fire Rescue", "region": "Tampa Bay", "status": "on",
+   "detail": "Launched its D-shift (24 on / 72 off) in January 2026.",
+   "source": "https://www.pascocountyfl.gov/_T18_R604.php", "updated": "2026-01-26"},
+  {"name": "Gainesville Fire Rescue", "region": "North Central FL", "status": "on",
+   "detail": "City approved 24/72 in November 2023 with a target start of mid-2024.",
+   "source": "https://www.gainesvillefl.gov/News-articles/City-of-Gainesville-and-Fire-Rescue-historic-agreement-on-work-schedule", "updated": "2023-11-20"},
+  {"name": "Levy County Fire Rescue", "region": "North Central FL", "status": "on",
+   "detail": "Adopted 24/72 for firefighters and paramedics in a new three-year contract (September 2025).",
+   "source": "https://www.chronicleonline.com/weeklies/levy_county_citizen/local_news/levy-county-adopts-24-72-shift-schedule-for-firefighters-and-paramedics/article_e076bb14-2f3a-5e09-87cb-fde960095aca.html", "updated": "2025-09-25"},
+  {"name": "Lake County Fire Rescue (EMS only)", "region": "Central FL", "status": "on",
+   "detail": "Paramedics and EMTs moved to 24/72 in August 2025. Firefighters are not yet included (see In talks).",
+   "source": "https://www.firerescue1.com/labor-and-union-issues/fla-fd-shifts-to-24-72-schedule-for-paramedics-and-emts", "updated": "2025-08-26"},
+
+  {"name": "Marion County Fire Rescue", "region": "Central FL", "status": "staffing",
+   "detail": "Contract approved June 2, 2026. County must reach 24/72 by Sept. 30, 2029, hiring nearly 250 people for a new D-shift. Chief hopes to get there sooner.",
+   "source": "https://www.ocalagazette.com/?p=109708", "updated": "2026-06-02"},
+  {"name": "Polk County Fire Rescue", "region": "Central FL", "status": "staffing",
+   "detail": "Tentative agreement for a D-shift (24/72) reached July 2026, targeting Oct. 1, 2027. Staffing up with 75 positions added in 2024 and 50 SAFER-funded positions. Final commission vote still pending.",
+   "source": "https://www.polkfl.gov/news/polk-county-and-firefighters-union-tentatively-agree-upon-d-shift/", "updated": "2026-07-17"},
+
+  {"name": "St. Johns County Fire Rescue", "region": "Northeast FL", "status": "talks",
+   "detail": "IAFF Local 3865 is pushing for 24/72 plus about 125 hires. Talks went to impasse in January 2026 and were still in the state impasse process as of May 2026.",
+   "source": "https://www.news4jax.com/news/local/2026/05/19/st-johns-fire-union-say-theyre-stuck-without-a-contract-state-impasse-process-now-underway/", "updated": "2026-05-19"},
+  {"name": "Lake County Fire Rescue (firefighters)", "region": "Central FL", "status": "talks",
+   "detail": "IAFF Local 3990 is working to move dual-certified firefighter/paramedics onto the same 24/72 schedule EMS staff already have.",
+   "source": "https://mynews13.com/fl/orlando/news/2025/09/18/lake-county-firefighters-negotiations-schedule", "updated": "2025-09-18"},
+  {"name": "Orlando Fire Department", "region": "Central FL", "status": "talks",
+   "detail": "A 42-hour week was a key issue in 2025 bargaining (a fourth platoon would need about 135 more firefighters). The November 2025 contract kept a 48-hour week, so it remains a future goal.",
+   "source": "https://www.firerescue1.com/labor-and-union-issues/fla-firefighters-win-largest-raises-in-orlando-history-under-new-contract", "updated": "2025-11-13"}
+ ]
+}

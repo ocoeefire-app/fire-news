@@ -55,6 +55,24 @@
   .card p { margin: 0; color: var(--muted); font-size: 14px; }
   .empty { text-align: center; color: var(--muted); padding: 60px 0; }
   footer { border-top: 1px solid var(--line); padding: 18px 0 30px; color: var(--muted); font-size: 12px; }
+  .tabs { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; }
+  .tab { flex: none; background: none; border: 0; cursor: pointer; color: #bdb6ae;
+         font: 500 15px Oswald, sans-serif; letter-spacing: .6px; text-transform: uppercase;
+         padding: 10px 14px 12px; border-bottom: 3px solid transparent; margin-bottom: -4px; }
+  .tab[aria-selected="true"] { color: #fff; border-bottom-color: #ff4d55; }
+  .intro { color: var(--muted); font-size: 14px; margin: 0 0 6px; max-width: 760px; }
+  .cols { display: grid; gap: 14px; grid-template-columns: repeat(3, 1fr); margin-top: 14px; }
+  .col h3 { font: 500 16px Oswald, sans-serif; text-transform: uppercase; letter-spacing: .6px;
+            margin: 0 0 10px; display: flex; align-items: center; gap: 8px; }
+  .count { font: 700 13px Inter, sans-serif; color: #fff; border-radius: 999px; padding: 1px 9px; }
+  .s-on .count { background: #1f7a3a; } .s-staffing .count { background: #c77800; } .s-talks .count { background: #49617a; }
+  .dept { background: var(--card); border: 1px solid var(--line); border-left-width: 4px;
+          border-radius: 8px; padding: 12px 14px; margin-bottom: 10px; }
+  .s-on .dept { border-left-color: #1f7a3a; } .s-staffing .dept { border-left-color: #c77800; } .s-talks .dept { border-left-color: #49617a; }
+  .dept b { display: block; font-size: 15px; } .dept .rg { font-size: 12px; color: var(--muted); }
+  .dept p { margin: 6px 0 4px; font-size: 13.5px; }
+  .dept a { font-size: 12px; color: var(--red); }
+  @media (max-width: 860px) { .cols { grid-template-columns: 1fr; } }
   @media (max-width: 520px) { h1 { font-size: 24px; } .grid { grid-template-columns: 1fr; } }
 </style>
 </head>
@@ -64,6 +82,11 @@
     <h1>Fire Service <span>Daily</span></h1>
     <div class="updated" id="updated">Loading…</div>
   </div>
+  <nav class="wrap tabs" role="tablist">
+    <button class="tab" role="tab" data-t="news">Fire News</button>
+    <button class="tab" role="tab" data-t="union">Union</button>
+    <button class="tab" role="tab" data-t="shift">24/72 Tracker</button>
+  </nav>
 </header>
 
 <div class="controls">
@@ -80,72 +103,6 @@
   <span id="srcs"></span>
 </footer>
 
-<script>
-const ORDER = ["All","Local","Florida","LODD","News","Training","EMS","Research","Publications","Apparatus & Gear"];
-let data = { items: [] }, cat = "All", query = "";
-
-try { const c = new URLSearchParams(location.search).get("cat"); if (c) cat = c; } catch (e) {}
-
-function esc(s) { return String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
-function dayLabel(iso) {
-  if (!iso) return "Recent";
-  const d = new Date(iso), now = new Date();
-  const diff = Math.floor((new Date(now.toDateString()) - new Date(d.toDateString())) / 864e5);
-  if (diff === 0) return "Today";
-  if (diff === 1) return "Yesterday";
-  return d.toLocaleDateString(undefined, { weekday: "long", month: "short", day: "numeric" });
-}
-
-function renderChips() {
-  const counts = {};
-  data.items.forEach(i => counts[i.category] = (counts[i.category] || 0) + 1);
-  const cats = ORDER.filter(c => c === "All" || counts[c])
-    .concat(Object.keys(counts).filter(c => !ORDER.includes(c)));
-  document.getElementById("chips").innerHTML = cats.map(c =>
-    `<button class="chip" aria-pressed="${c === cat}" data-c="${esc(c)}">${esc(c)}<small>${c === "All" ? data.items.length : counts[c]}</small></button>`
-  ).join("");
-}
-
-function render() {
-  const q = query.toLowerCase();
-  const items = data.items.filter(i =>
-    (cat === "All" || i.category === cat) &&
-    (!q || (i.title + " " + i.summary + " " + i.source).toLowerCase().includes(q)));
-  const list = document.getElementById("list");
-  if (!items.length) { list.innerHTML = `<div class="empty">No articles match.</div>`; return; }
-  let html = "", last = null, open = false;
-  items.forEach(i => {
-    const lbl = dayLabel(i.date);
-    if (lbl !== last) {
-      if (open) html += "</div>";
-      html += `<div class="day">${esc(lbl)}</div><div class="grid">`;
-      last = lbl; open = true;
-    }
-    html += `<a class="card" href="${esc(i.link)}" target="_blank" rel="noopener">
-      <div class="meta"><span class="tag">${esc(i.category)}</span><span>${esc(i.source)}</span></div>
-      <h2>${esc(i.title)}</h2>${i.summary ? `<p>${esc(i.summary)}</p>` : ""}</a>`;
-  });
-  list.innerHTML = html + (open ? "</div>" : "");
-}
-
-document.getElementById("chips").addEventListener("click", e => {
-  const b = e.target.closest(".chip"); if (!b) return;
-  cat = b.dataset.c; renderChips(); render();
-});
-document.getElementById("q").addEventListener("input", e => { query = e.target.value; render(); });
-
-fetch("news.json?v=" + Date.now()).then(r => r.json()).then(d => {
-  data = d;
-  if (cat !== "All" && !d.items.some(i => i.category === cat)) cat = "All";
-  document.getElementById("updated").textContent = "Updated " +
-    new Date(d.updated).toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
-  const ok = d.sources.filter(s => s.ok).length;
-  document.getElementById("srcs").textContent = `${ok} of ${d.sources.length} sources checked in today.`;
-  renderChips(); render();
-}).catch(() => {
-  document.getElementById("updated").textContent = "";
-  document.getElementById("list").innerHTML = `<div class="empty">News couldn't load. Try again shortly.</div>`;
-});
-</script>
+<script src="app.js"></script>
 </body>
 </html>

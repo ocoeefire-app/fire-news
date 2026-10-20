@@ -90,5 +90,54 @@
   "url": "https://news.google.com/rss/search?q=%22Orange+County+Fire+Rescue%22+Florida&hl=en-US&gl=US&ceid=US:en",
   "category": "Local",
   "google": true
+ },
+ {
+  "name": "Central FL fire unions (news)",
+  "url": "https://news.google.com/rss/search?q=IAFF+(Orlando+OR+%22Orange+County%22+OR+Seminole+OR+Osceola+OR+Kissimmee+OR+%22Lake+County%22+OR+Ocoee+OR+Apopka+OR+%22Winter+Park%22)&hl=en-US&gl=US&ceid=US:en",
+  "category": "Union",
+  "google": true,
+  "max_age_days": 180
+ },
+ {
+  "name": "Central FL firefighter contracts (news)",
+  "url": "https://news.google.com/rss/search?q=firefighters+union+contract+(Orlando+OR+Orange+OR+Seminole+OR+Osceola+OR+Lake+OR+Volusia+OR+Brevard+OR+Polk+OR+Marion)+Florida&hl=en-US&gl=US&ceid=US:en",
+  "category": "Union",
+  "google": true,
+  "max_age_days": 180
+ },
+ {
+  "name": "Orange County Professional Firefighters (news)",
+  "url": "https://news.google.com/rss/search?q=%22Orange+County+Professional+Firefighters%22+OR+%22Local+2057%22&hl=en-US&gl=US&ceid=US:en",
+  "category": "Union",
+  "google": true,
+  "max_age_days": 180
+ },
+ {
+  "name": "Orlando Professional Firefighters (news)",
+  "url": "https://news.google.com/rss/search?q=%22Orlando+Professional+Firefighters%22+OR+%22IAFF+Local+1365%22&hl=en-US&gl=US&ceid=US:en",
+  "category": "Union",
+  "google": true,
+  "max_age_days": 180
+ },
+ {
+  "name": "Florida Professional Firefighters (news)",
+  "url": "https://news.google.com/rss/search?q=%22Florida+Professional+Firefighters%22&hl=en-US&gl=US&ceid=US:en",
+  "category": "Union",
+  "google": true,
+  "max_age_days": 180
+ },
+ {
+  "name": "24/72 schedule news (Florida)",
+  "url": "https://news.google.com/rss/search?q=%2224%2F72%22+firefighters+Florida&hl=en-US&gl=US&ceid=US:en",
+  "category": "24/72",
+  "google": true,
+  "max_age_days": 180
+ },
+ {
+  "name": "D-shift news (Florida)",
+  "url": "https://news.google.com/rss/search?q=%22D-shift%22+fire+rescue+Florida&hl=en-US&gl=US&ceid=US:en",
+  "category": "24/72",
+  "google": true,
+  "max_age_days": 180
  }
 ]
