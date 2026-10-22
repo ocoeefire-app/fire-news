@@ -5,7 +5,8 @@ const SHIFT_RE = /24\s*\/\s*72|d[- ]shift|delta shift|fourth (shift|platoon)|42[
 const STATUS = [
   { key: "on", label: "On 24/72" },
   { key: "staffing", label: "Approved & staffing up" },
-  { key: "talks", label: "In talks" },
+  { key: "talks", label: "In talks / studying" },
+  { key: "reported", label: "Reported, not confirmed" },
 ];
 
 let news = { items: [], sources: [] }, tracker = null;
@@ -82,7 +83,7 @@ function renderShift() {
   const q = query.toLowerCase();
   const depts = tracker.departments.filter(d => !q || (d.name + d.detail + d.region).toLowerCase().includes(q));
   let html = `<p class="intro">Florida departments on a 24-on / 72-off schedule, those hiring toward one, and those
-    negotiating for it. ${esc(tracker.note)} Last reviewed ${esc(new Date(tracker.lastReviewed + "T12:00:00").toLocaleDateString(undefined, { month: "long", day: "numeric", year: "numeric" }))}.</p><div class="cols">`;
+    negotiating for it, plus credible reports still waiting on a public source. ${esc(tracker.note)} Last reviewed ${esc(new Date(tracker.lastReviewed + "T12:00:00").toLocaleDateString(undefined, { month: "long", day: "numeric", year: "numeric" }))}.</p><div class="cols">`;
   STATUS.forEach(s => {
     const list = depts.filter(d => d.status === s.key);
     html += `<section class="col s-${s.key}"><h3>${s.label}<span class="count">${list.length}</span></h3>`;

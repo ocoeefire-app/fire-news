@@ -61,18 +61,19 @@
          padding: 10px 14px 12px; border-bottom: 3px solid transparent; margin-bottom: -4px; }
   .tab[aria-selected="true"] { color: #fff; border-bottom-color: #ff4d55; }
   .intro { color: var(--muted); font-size: 14px; margin: 0 0 6px; max-width: 760px; }
-  .cols { display: grid; gap: 14px; grid-template-columns: repeat(3, 1fr); margin-top: 14px; }
+  .cols { display: grid; gap: 14px; grid-template-columns: repeat(4, 1fr); margin-top: 14px; }
   .col h3 { font: 500 16px Oswald, sans-serif; text-transform: uppercase; letter-spacing: .6px;
             margin: 0 0 10px; display: flex; align-items: center; gap: 8px; }
   .count { font: 700 13px Inter, sans-serif; color: #fff; border-radius: 999px; padding: 1px 9px; }
-  .s-on .count { background: #1f7a3a; } .s-staffing .count { background: #c77800; } .s-talks .count { background: #49617a; }
+  .s-on .count { background: #1f7a3a; } .s-staffing .count { background: #c77800; } .s-talks .count { background: #49617a; } .s-reported .count { background: #8a7f73; }
   .dept { background: var(--card); border: 1px solid var(--line); border-left-width: 4px;
           border-radius: 8px; padding: 12px 14px; margin-bottom: 10px; }
-  .s-on .dept { border-left-color: #1f7a3a; } .s-staffing .dept { border-left-color: #c77800; } .s-talks .dept { border-left-color: #49617a; }
+  .s-on .dept { border-left-color: #1f7a3a; } .s-staffing .dept { border-left-color: #c77800; } .s-talks .dept { border-left-color: #49617a; } .s-reported .dept { border-left-color: #8a7f73; border-left-style: dashed; }
   .dept b { display: block; font-size: 15px; } .dept .rg { font-size: 12px; color: var(--muted); }
   .dept p { margin: 6px 0 4px; font-size: 13.5px; }
   .dept a { font-size: 12px; color: var(--red); }
-  @media (max-width: 860px) { .cols { grid-template-columns: 1fr; } }
+  @media (max-width: 1080px) { .cols { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .cols { grid-template-columns: 1fr; } }
   @media (max-width: 520px) { h1 { font-size: 24px; } .grid { grid-template-columns: 1fr; } }
 </style>
 </head>

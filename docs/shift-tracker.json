@@ -1,14 +1,14 @@
 {
- "lastReviewed": "2026-10-20",
- "note": "Built from news coverage, union contracts, and city/county websites. Departments are added as they're confirmed; if yours is missing, it may not have been reported yet.",
+ "lastReviewed": "2026-10-22",
+ "note": "Built from union contracts, city/county records, recruiting material and news, cross-checked against a union member's statewide survey (Oct. 2026). 'Reported' means a credible claim without a public document yet.",
  "departments": [
   {
    "name": "Kissimmee Fire Department",
    "region": "Central FL",
    "status": "on",
-   "detail": "First Central Florida department on 24/72. Started April 25, 2026 after hiring 49 firefighters, paid for with a new fire assessment fee.",
-   "source": "https://www.clickorlando.com/news/local/2026/04/07/kissimmee-firefighters-set-to-begin-2472-shift-schedule/",
-   "updated": "2026-04-07"
+   "detail": "First Central Florida department on 24/72. The city launched its new D-shift on April 25, 2026 after hiring 49 firefighters, paid for with a fire assessment fee.",
+   "source": "https://www.kissimmee.gov/My-Government/News-Alerts/33-Members-of-the-City-of-Kissimmee-Fire-Department-Take-the-Oath-as-New-2472-Work-Schedule-Launches",
+   "updated": "2026-04-17"
   },
   {
    "name": "Pasco County Fire Rescue",
@@ -22,17 +22,17 @@
    "name": "Gainesville Fire Rescue",
    "region": "North Central FL",
    "status": "on",
-   "detail": "Moved to 24 on / 72 off on Aug. 19, 2024, cutting the average week to 42 hours. City approved the change in November 2023.",
-   "source": "https://www.wcjb.com/2024/07/23/mentally-physically-decompress-gainesville-firefighters-preparing-shift-schedule-change",
+   "detail": "Moved from three platoons to four (24/72) on Aug. 19, 2024, per the department's 2024 annual report. The later IAFF contract kept the schedule.",
+   "source": "https://www.gainesvillefl.gov/files/assets/public/v/1/fire-rescue/documents/gfr-annual-report-2024.pdf",
    "updated": "2024-07-23"
   },
   {
    "name": "Levy County Fire Rescue",
    "region": "North Central FL",
    "status": "on",
-   "detail": "Adopted 24/72 for firefighters and paramedics in a new three-year contract (September 2025).",
-   "source": "https://www.chronicleonline.com/weeklies/levy_county_citizen/local_news/levy-county-adopts-24-72-shift-schedule-for-firefighters-and-paramedics/article_e076bb14-2f3a-5e09-87cb-fde960095aca.html",
-   "updated": "2025-09-25"
+   "detail": "Commissioners approved 24/72 in September 2025, and the Department of Public Safety completed the switch for fire and EMS crews in September 2026. The county's own webpage still says 24/48 and hasn't been updated.",
+   "source": "https://www.chronicleonline.com/weeklies/levy_county_citizen/local_news/levy-county-dps-transitions-to-24-72-work-schedule/article_8faab7d2-50c1-5bec-9a7f-15b9b70072e2.html",
+   "updated": "2026-09-24"
   },
   {
    "name": "Lake County Fire Rescue (EMS only)",
@@ -46,9 +46,9 @@
    "name": "Marion County Fire Rescue",
    "region": "Central FL",
    "status": "staffing",
-   "detail": "Contract approved June 2, 2026. County must reach 24/72 by Sept. 30, 2029, hiring nearly 250 people for a new D-shift. Chief hopes to get there sooner.",
-   "source": "https://www.ocalagazette.com/?p=109708",
-   "updated": "2026-06-02"
+   "detail": "Contract approved June 2, 2026 commits the county to 24/72 by October 2029, hiring nearly 250 people for a D-shift. Current job postings say crews work 24/48 until the transition.",
+   "source": "https://www.nationaltestingnetwork.com/publicsafetyjobs/fullJobDetails.cfm?agencyjobid=779&agentid=321&jobid=2",
+   "updated": "2026-10-15"
   },
   {
    "name": "Ocala Fire Rescue",
@@ -62,9 +62,9 @@
    "name": "Polk County Fire Rescue",
    "region": "Central FL",
    "status": "staffing",
-   "detail": "Firefighters' union tentatively agreed to a D-shift (24/72, 42 hours) in July 2026, targeting Oct. 1, 2027. In October 2026 the paramedics' union (IAEP) also reached a tentative deal adding a fourth shift. Final county approval still pending.",
-   "source": "https://yahoo.com/news/us/articles/polk-paramedics-secure-contract-fourth-090327280.html",
-   "updated": "2026-10-16"
+   "detail": "Firefighters' contract secures a D-shift (24/72, 42 hours) no later than Oct. 1, 2027, and the paramedics' union reached a matching tentative deal in October 2026. Both still need union ratification and a county commission vote.",
+   "source": "https://www.polkfl.gov/news/polk-county-firefighters-union-agreement-heads-to-vote/",
+   "updated": "2026-09-30"
   },
   {
    "name": "St. Johns County Fire Rescue",
@@ -94,9 +94,9 @@
    "name": "Boynton Beach Fire Rescue",
    "region": "South FL",
    "status": "on",
-   "detail": "City Commission approved a 24/72, 42-hour week with no pay cut in June 2022; the change took effect in 2023 after extra hires were trained.",
-   "source": "https://thecoastalstar.com/profiles/blogs/boynton-beach-radical-schedule-change-to-benefit-firefighters-cit",
-   "updated": "2022-06-29"
+   "detail": "City hiring material lists a 24/72 schedule averaging 2,190 hours a year. The commission approved the switch in 2022 and it took effect in 2023.",
+   "source": "https://www.governmentjobs.com/careers/boyntonbeachfl/jobs/newprint/4729771",
+   "updated": "2024-11-21"
   },
   {
    "name": "Delray Beach Fire Rescue",
@@ -110,15 +110,15 @@
    "name": "Palm Beach County Fire Rescue",
    "region": "South FL",
    "status": "staffing",
-   "detail": "Union contract (2024\u20132027) moves 24-hour crews from a 48-hour week with Kelly Days to 24 on / 72 off at 42 hours, effective January 2027. The county may push the start back to April 1, 2027.",
-   "source": "https://discover.pbcgov.org/humanresources/PDF/Relations/CBA_Firefighters-Paramedics.pdf",
-   "updated": "2024-11-19"
+   "detail": "The union contract moves 24-hour crews to 24/72 at 42 hours in January 2027 (the county can push this to April 2027). The county funded Phase 1 positions in FY2026, and the full change needs about 148 more positions.",
+   "source": "https://www.pbcgov.com/pubInf/Agenda/20250520/Item%20B%20-%20draft.pdf",
+   "updated": "2025-05-20"
   },
   {
    "name": "Greenacres Fire Rescue",
    "region": "South FL",
    "status": "staffing",
-   "detail": "Adopting a four-platoon, 42-hour 'Spartan' schedule (24 on/96 off/24 on/48 off) instead of a straight 24/72. Set to begin Oct. 1, 2026; start not yet confirmed.",
+   "detail": "Not a straight 24/72: it is adopting a four-platoon, 42-hour 'Spartan' schedule (24 on/96 off/24 on/48 off), set to begin Oct. 1, 2026. The start isn't confirmed yet.",
    "source": "https://www.firerescue1.com/fire-department-management/introducing-the-spartan-schedule-to-the-south",
    "updated": "2026-05-26"
   },
@@ -166,31 +166,31 @@
    "name": "Palm Beach Gardens Fire Rescue",
    "region": "South FL",
    "status": "staffing",
-   "detail": "Contract approved in 2024 moves crews from 24/48 (48 hours) to 24/72 (42 hours) in its third year, starting October 2026, with about 15 extra hires. Start not yet confirmed.",
-   "source": "https://www.yahoo.com/news/palm-beach-gardens-raises-firefighter-090319217.html",
-   "updated": "2024-10-09"
+   "detail": "The FY2026 budget added 23 firefighters for a four-shift 24/72 system, with crews moving to a 42-hour week in October 2026. The actual start date hasn't been confirmed.",
+   "source": "https://redtaperecordings.com/m/palm-beach-gardens-fl-2025-09-04-sep-04-2025-city-council",
+   "updated": "2025-09-04"
   },
   {
    "name": "Deerfield Beach (new city fire department)",
    "region": "South FL",
    "status": "staffing",
-   "detail": "City voted in January 2026 to leave Broward Sheriff's Fire Rescue and start its own department within about 20 months. Its feasibility study recommends four squads on a 24/72 schedule.",
-   "source": "https://www.deerfield-beach.com/DocumentCenter/View/21220",
-   "updated": "2026-01-21"
+   "detail": "City voted in January 2026 to leave Broward Sheriff's Fire Rescue. Its new department is recruiting now, advertising 24/72 shifts, with operations expected around fall 2027.",
+   "source": "https://www.deerfield-beach.com/2276/Fire-Rescue",
+   "updated": "2026-10-20"
   },
   {
    "name": "Highland Beach Fire Rescue",
    "region": "South FL",
-   "status": "talks",
-   "detail": "Named in 2024 as one of the Palm Beach County coastal departments following Boca Raton toward 24/72. Its recent job posting still lists a 48-hour week, so the switch isn't confirmed.",
-   "source": "https://www.yahoo.com/news/palm-beach-gardens-raises-firefighter-090319217.html",
-   "updated": "2024-10-09"
+   "status": "on",
+   "detail": "An October 2024 town commission packet states fire rescue personnel work 24-hour shifts followed by 72 hours off, with leave rules written for 42-hour shift employees.",
+   "source": "https://mccmeetings.blob.core.usgovcloudapi.net/highlandfl-pubu/MEET-Packet-ac9f3c8ae72747b1a0e5cd160cb29516.pdf",
+   "updated": "2024-10-01"
   },
   {
    "name": "Tamarac Fire Rescue",
    "region": "South FL",
    "status": "talks",
-   "detail": "The 2024\u20132027 contract keeps a 48-hour 24/48 schedule but requires the city to meet the union by Oct. 25, 2026 on a plan, costs and staffing for moving to 24/72.",
+   "detail": "The 2024\u20132027 contract keeps 24/48 but requires the city to meet the union by Oct. 25, 2026 to discuss moving to 24/72, including costs and staffing.",
    "source": "https://www.tamarac.gov/DocumentCenter/View/12408/Fire-Collective-Bargaining-Agreement-2024-2027",
    "updated": "2024-10-01"
   },
@@ -198,9 +198,73 @@
    "name": "Tavares Fire Department",
    "region": "Central FL",
    "status": "talks",
-   "detail": "A one-year contract approved Aug. 5, 2026 sets up a labor-management committee to study moving to a 42-hour week, subject to funding and a later council vote. Crews currently work 24/48.",
-   "source": "https://citizenportal.ai/articles/10195008/florida/lake-county/tavares/tavares-approves-oneyear-firefighters-contract-committee-to-study-move-to-42hour-week",
-   "updated": "2026-08-05"
+   "detail": "Crews work 24/48 now. A proposed 24/72 schedule would start April 1, 2028, pending council funding approval, and an August 2026 contract set up a committee to study the 42-hour week.",
+   "source": "https://www.firejobs.com/firefighter-jobs/florida/tavares/city-of-tavares-fire-department/firefighter-emt-paramedic-preferred",
+   "updated": "2026-10-01"
+  },
+  {
+   "name": "Miramar Fire Rescue",
+   "region": "South FL",
+   "status": "on",
+   "detail": "The city's 2026 firefighter recruiting (through its testing partner) advertises 'Now Offering 24/72 Schedule.' The city's own pages don't state the rotation.",
+   "source": "https://www.publicsafetyanswers.com/miramar",
+   "updated": "2026-05-15"
+  },
+  {
+   "name": "Titusville Fire Department",
+   "region": "Central FL",
+   "status": "staffing",
+   "detail": "City Council approved the 2025\u20132028 IAFF Local 2445 contract on May 12, 2026; it includes a move to a 24/72 schedule starting in 2027. Exact start date not stated.",
+   "source": "https://talkoftitusville.com/2026/05/11/titusville-city-council-to-vote-on-labor-contracts-royal-oak-study-and-wellfield-expansion/",
+   "updated": "2026-05-12"
+  },
+  {
+   "name": "Gilchrist County Fire Rescue",
+   "region": "North Central FL",
+   "status": "staffing",
+   "detail": "Hiring now, with a new 24/72 schedule set to begin Jan. 5, 2027, according to a regional union post. No county document confirming it has been found yet.",
+   "source": "https://www.local4153.org/news",
+   "updated": "2026-10-01"
+  },
+  {
+   "name": "St. Cloud Fire Rescue",
+   "region": "Central FL",
+   "status": "talks",
+   "detail": "City recruiting page says crews work 24/48 and that the City Council is reviewing funding strategies to support a move to 24/72.",
+   "source": "https://stcloudfl.gov/2346/Join-St-Cloud-Fire-Rescue",
+   "updated": "2026-10-20"
+  },
+  {
+   "name": "Coral Springs-Parkland Fire Department",
+   "region": "South FL",
+   "status": "talks",
+   "detail": "A city command-level job description lists helping implement new staffing models and schedules, 'e.g., 24/72 or 42-hour work week.' No approved start date found.",
+   "source": "https://www.governmentjobs.com/careers/coralspringsfl/jobs/newprint/5102301",
+   "updated": "2026-10-01"
+  },
+  {
+   "name": "Ponce Inlet Fire Department",
+   "region": "Central FL",
+   "status": "talks",
+   "detail": "A July 2025 town budget workshop studied moving from 24/48 (about 56 hours) to a four-shift 42-hour model. Any change would need bargaining and funding.",
+   "source": "https://www.ponce-inlet.org/DocumentCenter/View/4716/Budget-Workshop-Agenda-Packet-7-15-25",
+   "updated": "2025-07-15"
+  },
+  {
+   "name": "Seminole Tribe Fire Rescue",
+   "region": "South FL",
+   "status": "reported",
+   "detail": "Reported by department members (on LinkedIn and by word of mouth) to have worked 24/72 for over 20 years. No public tribal document confirms it.",
+   "source": "https://www.linkedin.com/posts/codi-donahoe-8354a644_looking-for-input-from-departments-that-have-activity-7498503142200754176-jSM8",
+   "updated": "2026-10-20"
+  },
+  {
+   "name": "Ocoee Fire Department",
+   "region": "Central FL",
+   "status": "reported",
+   "detail": "A union-compiled survey says Ocoee's FY2026 budget modeled 24/72 costs and estimated up to 21 more firefighters would be needed. The city's budget file couldn't be opened to confirm, and nothing has been approved.",
+   "source": "https://fl-ocoee.civicplus.com/ArchiveCenter/ViewFile/Item/1816",
+   "updated": "2026-10-20"
   }
  ]
 }
