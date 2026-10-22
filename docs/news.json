@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:29:20.853249+00:00",
+ "updated": "2026-10-22T14:31:14.138415+00:00",
  "sources": [
   {
    "name": "Statter911",
@@ -44,7 +44,7 @@
   {
    "name": "UL FSRI (news)",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "name": "NIST Fire Research",
@@ -69,12 +69,12 @@
   {
    "name": "NIOSH Fatality Reports (news)",
    "ok": true,
-   "count": 2
+   "count": 5
   },
   {
    "name": "Florida Fire Service (news)",
    "ok": true,
-   "count": 11
+   "count": 4
   },
   {
    "name": "Ocoee / West Orange (news)",
@@ -109,7 +109,7 @@
   {
    "name": "Florida Professional Firefighters (news)",
    "ok": true,
-   "count": 18
+   "count": 16
   },
   {
    "name": "24/72 schedule news (Florida)",
@@ -119,7 +119,7 @@
   {
    "name": "D-shift news (Florida)",
    "ok": true,
-   "count": 3
+   "count": 2
   }
  ],
  "items": [
@@ -130,7 +130,376 @@
    "feed": "NIST Fire Research",
    "category": "Research",
    "summary": "An interactive workshop discussing the use of super intelligence in the fire service will be hosted, on-site, at the National Institute of Standards and Technology (NIST) in Gaithersburg, MD. The focus of the workshop\u2026",
-   "date": "2026-10-21T14:29:14.553026+00:00"
+   "date": "2026-10-22T14:31:07.936796+00:00"
+  },
+  {
+   "title": "On-Duty Firefighter Cardiac Deaths Highlight Potential Screening Gaps",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHV6ZU55V1RVQXNRNFlWX1Z1NlByYW9UcjlkTVZlSUdLT0NLamxyVnZRTTNKUURXWHpjc1NpcEVKNG1maVNsTi03OE8zcWpXMVlLc3VSelpEeUk2SmdDYkt0NW8tQnMyNllvb1NneFluaElJWXdDV0lNXzYzeUJocTVsQjdqUG5VbjVCV2ZTQXdvUU04M3I1Rkp4YlJVemYwYUJiQzh5WEcxQQ?oc=5",
+   "source": "American College of Cardiology",
+   "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
+   "summary": "",
+   "date": "2026-10-22T14:12:15+00:00"
+  },
+  {
+   "title": "La. EMS, FD partner to bring whole blood to the field",
+   "link": "https://www.ems1.com/blood-on-board/la-ems-fd-partner-to-bring-whole-blood-to-the-field",
+   "source": "EMS1",
+   "feed": "EMS1",
+   "category": "EMS",
+   "summary": "East Baton Rouge EMS and St. George Fire Department\u2019s new partnership will put 20 trained \"Blood Medics\" in the field starting Oct. 26",
+   "date": "2026-10-22T14:11:13+00:00"
+  },
+  {
+   "title": "St. Lucie County, FL, Fire Chief Terminated Months after Bug Zapper Incident",
+   "link": "https://www.firehouse.com/careers-education/video/55413659/st-lucie-county-fl-fire-chief-terminated-amid-months-of-controversy",
+   "source": "Firehouse",
+   "feed": "Firehouse",
+   "category": "News",
+   "summary": "Two months ago, three St. Lucie County firefighters were fired after using a modified bug zapper on colleagues.",
+   "date": "2026-10-22T13:57:47+00:00"
+  },
+  {
+   "title": "Alexis Fire Equipment and Dinges Fire Company Join Forces",
+   "link": "https://www.fireapparatusmagazine.com/industry-news/alexis-fire-equipment-and-dinges-fire-company-join-forces/",
+   "source": "Fire Apparatus Magazine",
+   "feed": "Fire Apparatus Magazine",
+   "category": "Apparatus & Gear",
+   "summary": "Alexis Fire Equipment is pleased to announce the appointment of Dinges Fire Company (DFC) as a new dealer covering six states in the Midwest. The post Alexis Fire Equipment and Dinges Fire Company Join Forces appeared\u2026",
+   "date": "2026-10-22T13:56:19+00:00"
+  },
+  {
+   "title": "N.C. county rescue squad trains first responders on hot air balloon emergencies",
+   "link": "https://www.ems1.com/ems-training-and-education/n-c-county-rescue-squad-trains-first-responders-on-hot-air-balloon-emergencies",
+   "source": "EMS1",
+   "feed": "EMS1",
+   "category": "EMS",
+   "summary": "First responders from Iredell County studied balloon equipment and discussed scenarios like hard landings, fuel incidents and burn treatment",
+   "date": "2026-10-22T13:39:05+00:00"
+  },
+  {
+   "title": "Fla. fire chief fired amid bug zapper hazing fallout",
+   "link": "https://www.firerescue1.com/fire-chief/fla-fire-chief-fired-amid-bug-zapper-hazing-fallout",
+   "source": "FireRescue1",
+   "feed": "FireRescue1",
+   "category": "News",
+   "summary": "After a bug zapper hazing led to the firing of three firefighters, St. Lucie County\u2019s fire board voted to terminate Chief Jeff Lee without cause, following a union no-confidence vote",
+   "date": "2026-10-22T13:08:23+00:00"
+  },
+  {
+   "title": "Air Superiority: Innovation in SCBA",
+   "link": "https://www.firehouse.com/safety-health/scba-accessories/article/55406052/air-superiority-innovation-in-scba-for-firefighters",
+   "source": "Firehouse",
+   "feed": "Firehouse",
+   "category": "News",
+   "summary": "Manufacturers, including 3M Scott, Dr\u00e4ger and MSA, are adapting their SCBAs to meet new NFPA standards by integrating modern electronics, enhancing comfort and simplifying decontamination processes.",
+   "date": "2026-10-22T13:00:00+00:00"
+  },
+  {
+   "title": "Ala. firefighters' union sues city over SCBA contamination",
+   "link": "https://www.firerescue1.com/legal/ala-firefighters-union-sues-city-over-scba-contamination",
+   "source": "FireRescue1",
+   "feed": "FireRescue1",
+   "category": "News",
+   "summary": "The union\u2019s lawsuit alleges a third-party test found oil and particulates in the air used to fill SCBA cylinders, and that the city of Huntsville withheld records about it",
+   "date": "2026-10-22T12:54:57+00:00"
+  },
+  {
+   "title": "Residents Evacuated from Burning Assisted Living Facility in Clinton, MS",
+   "link": "https://www.firehouse.com/community-risk/investigation-equipment/video/55413641/residents-evacuated-from-burning-assisted-living-facility-in-clinton-ms",
+   "source": "Firehouse",
+   "feed": "Firehouse",
+   "category": "News",
+   "summary": "Firefighters from multiple departments assisted Clinton with evacuations and operations.",
+   "date": "2026-10-22T12:35:34+00:00"
+  },
+  {
+   "title": "Sanford\u2019s (NC) New $1.7M Ladder Truck Cuts Rescue Response Time",
+   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/sanfords-nc-new-1-7m-ladder-truck-cuts-rescue-response-time/",
+   "source": "Fire Apparatus Magazine",
+   "feed": "Fire Apparatus Magazine",
+   "category": "Apparatus & Gear",
+   "summary": "Sanford Fire Department\u2019s new $1.74 million ladder truck deploys in 15 to 20 seconds, helping crews reach upper floors and rooftops of taller buildings faster. The post Sanford\u2019s (NC) New $1.7M Ladder Truck Cuts Rescue\u2026",
+   "date": "2026-10-22T12:30:46+00:00"
+  },
+  {
+   "title": "The Effect of Peak Demand Units on Urban Emergency Medical Services Operations",
+   "link": "https://www.jems.com/ems-operations/the-effect-of-peak-demand-units-on-urban-emergency-medical-services-operations/",
+   "source": "JEMS",
+   "feed": "JEMS",
+   "category": "EMS",
+   "summary": "See how peak demand units speed urban EMS response and boost efficiency, and explore the costs and challenges behind its implementation.",
+   "date": "2026-10-22T12:30:00+00:00"
+  },
+  {
+   "title": "N.M. city rebrands crisis response unit with new EMT case manager role",
+   "link": "https://www.ems1.com/behavioral-health/n-m-city-rebrands-crisis-response-unit-with-new-emt-case-manager-role",
+   "source": "EMS1",
+   "feed": "EMS1",
+   "category": "EMS",
+   "summary": "Santa Fe\u2019s overhaul adds a career ladder requiring case managers to become certified EMTs, months after Fire Chief Scott Ouderkirk removed paramedics from the unit, though its budget, hours and staffing remain below\u2026",
+   "date": "2026-10-22T11:58:30+00:00"
+  },
+  {
+   "title": "Avon (OH) Expects to Break Ground on Second Fire Station in Spring 2027",
+   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/avon-oh-expects-to-break-ground-on-second-fire-station-in-spring-2027/",
+   "source": "Fire Apparatus Magazine",
+   "feed": "Fire Apparatus Magazine",
+   "category": "Apparatus & Gear",
+   "summary": "Avon is advancing plans for a second fire station on its east side to address rising call volume, with construction now expected to start in spring. The post Avon (OH) Expects to Break Ground on Second Fire Station in\u2026",
+   "date": "2026-10-22T11:51:23+00:00"
+  },
+  {
+   "title": "Three Children Die in TX Mobile Home Fire; Fourth Child, Mother Critically Injured",
+   "link": "https://www.fireengineering.com/firefighting/three-children-die-in-tx-mobile-home-fire-fourth-child-mother-critically-injured/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "Three children died and a fourth child and their mother were critically injured in a mobile home fire near Canton.",
+   "date": "2026-10-22T10:40:48+00:00"
+  },
+  {
+   "title": "Fire destroys Miss. senior living center, displacing 100 residents",
+   "link": "https://www.firerescue1.com/structure-fire/fire-destroys-miss-senior-living-center-displacing-100-residents",
+   "source": "FireRescue1",
+   "feed": "FireRescue1",
+   "category": "News",
+   "summary": "No injuries were immediately confirmed after the blaze destroyed most of Brookdale Clinton, as crews searched into the night to account for all residents",
+   "date": "2026-10-22T09:55:23+00:00"
+  },
+  {
+   "title": "\u2018We\u2019re in Crisis\u2019: The CA Coastal Town Under Siege From Fires, High Surf, El Ni\u00f1o",
+   "link": "https://www.fireengineering.com/technical-rescue/were-in-crisis-the-ca-coastal-town-under-siege-from-fires-high-surf-el-nino/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "San Clemente faces severe climate challenges as El Ni\u00f1o storms cause coastal erosion threatening infrastructure, while wildfires fueled by Santa Ana winds have destroyed homes,",
+   "date": "2026-10-22T09:20:14+00:00"
+  },
+  {
+   "title": "Residents Sue to Halt CA 588-Acre Solar and Battery Storage Project",
+   "link": "https://www.fireengineering.com/firefighting/residents-sue-to-halt-ca-588-acre-solar-and-battery-storage-project/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "A community group sued to block the Starlight Solar Project in San Diego County, citing flawed environmental review, fire safety, and toxic risk concerns with the battery storage facility.",
+   "date": "2026-10-22T09:16:47+00:00"
+  },
+  {
+   "title": "AL Firefighters Blame Oil-Contaminated SCBA Cylinders for Health Problems",
+   "link": "https://www.fireapparatusmagazine.com/firefighter-ppe/scba/al-firefighters-blame-oil-contaminated-scba-cylinders-for-health-problems/",
+   "source": "Fire Apparatus Magazine",
+   "feed": "Fire Apparatus Magazine",
+   "category": "Apparatus & Gear",
+   "summary": "About 80 Huntsville firefighters reported respiratory symptoms after an August SCBA training exercise, after one air trailer failed air-quality testing in June, WAFF reported. The post AL Firefighters Blame\u2026",
+   "date": "2026-10-22T09:11:50+00:00"
+  },
+  {
+   "title": "Dome Fire in Yosemite (CA) Is Now Fully Contained; The Damage and Lives Lost",
+   "link": "https://www.fireengineering.com/firefighting/dome-fire-in-yosemite-ca-is-now-fully-contained-the-damage-and-lives-lost/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "The Dome Fire in Yosemite, covering 6,788 acres, is fully contained after over a month.",
+   "date": "2026-10-22T08:50:00+00:00"
+  },
+  {
+   "title": "Why Firefighting Costs So Much: TX Districts Educate Public About Equipment, Training, and Technology",
+   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/why-firefighting-costs-so-much-tx-districts-educate-public-about-equipment-training-and-technology/",
+   "source": "Fire Apparatus Magazine",
+   "feed": "Fire Apparatus Magazine",
+   "category": "Apparatus & Gear",
+   "summary": "Brazos County held an open house on its four emergency service districts, explaining rural fire coverage, governance and costs, and the challenges of staffing, training, and equipment. The post Why Firefighting Costs So\u2026",
+   "date": "2026-10-22T08:32:43+00:00"
+  },
+  {
+   "title": "Palo Pinto County (TX) Emergency Services District 1 Considers New Sallelite Station",
+   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/palo-pinto-county-tx-emergency-services-district-1-considers-new-sallelite-station/",
+   "source": "Fire Apparatus Magazine",
+   "feed": "Fire Apparatus Magazine",
+   "category": "Apparatus & Gear",
+   "summary": "Palo Pinto County fire and ambulance officials will discuss a new satellite base, including a possible shared fire, EMS station with Mineral Wells. The post Palo Pinto County (TX) Emergency Services District 1 Considers\u2026",
+   "date": "2026-10-22T08:29:16+00:00"
+  },
+  {
+   "title": "Marines Fielding New Tech for Prolonged Medical Care on the Battlefield",
+   "link": "https://www.jems.com/ems-operations/marines-fielding-new-tech-for-prolonged-medical-care-on-the-battlefield/",
+   "source": "JEMS",
+   "feed": "JEMS",
+   "category": "EMS",
+   "summary": "The Marine Corps is fielding battery-powered mobile blood banks, blood warmers, and ultrasound kits.",
+   "date": "2026-10-22T08:29:00+00:00"
+  },
+  {
+   "title": "Groton (CT) Considers Bonding for Fire Station, Municipal Building Repairs",
+   "link": "https://www.fireapparatusmagazine.com/the-fire-station/the-station-news/groton-ct-considers-bonding-for-fire-station-municipal-building-repairs/",
+   "source": "Fire Apparatus Magazine",
+   "feed": "Fire Apparatus Magazine",
+   "category": "Apparatus & Gear",
+   "summary": "Groton City Council will vote on $6 million in building and firehouse repairs. The post Groton (CT) Considers Bonding for Fire Station, Municipal Building Repairs appeared first on Fire Apparatus: Fire trucks, fire\u2026",
+   "date": "2026-10-22T08:25:35+00:00"
+  },
+  {
+   "title": "Baton Rouge (LA) Agencies Join to Start Lifesaving, Prehospital Blood Transfusion Program",
+   "link": "https://www.jems.com/news/baton-rouge-la-agencies-join-to-start-lifesaving-prehospital-blood-transfusion-program/",
+   "source": "JEMS",
+   "feed": "JEMS",
+   "category": "EMS",
+   "summary": "East Baton Rouge EMS and St. George Fire will begin a blood transfusion program.",
+   "date": "2026-10-22T08:17:04+00:00"
+  },
+  {
+   "title": "Santa Fe (NM) Unveils Plans for Reconfigured Alternative Response Unit",
+   "link": "https://www.jems.com/mobile-integrated-health-and-community-paramedicine/santa-fe-nm-unveils-plans-for-reconfigured-alternative-response-unit/",
+   "source": "JEMS",
+   "feed": "JEMS",
+   "category": "EMS",
+   "summary": "Santa Fe\u2019s Alternative Response Unit is being rebranded as the Crisis Assistance Response and Engagement Unit.",
+   "date": "2026-10-22T08:14:05+00:00"
+  },
+  {
+   "title": "Deaths Mount as West Nile Virus Hotspots Emerge in CA",
+   "link": "https://www.jems.com/news/deaths-mount-as-west-nile-virus-hotspots-emerge-in-ca/",
+   "source": "JEMS",
+   "feed": "JEMS",
+   "category": "EMS",
+   "summary": "Los Angeles and Orange counties reported 317 West Nile infections and 18 deaths this year.",
+   "date": "2026-10-22T08:10:56+00:00"
+  },
+  {
+   "title": "Man Dies at TN Hotel After Stabbing Own Neck During Attempted Warrant Service",
+   "link": "https://www.jems.com/ems-operations/man-dies-at-tn-hotel-after-stabbing-own-neck-during-attempted-warrant-service/",
+   "source": "JEMS",
+   "feed": "JEMS",
+   "category": "EMS",
+   "summary": "A 59-year-old man died Tuesday at a Shallowford Road hotel in Chattanooga after stabbing his neck as Hamilton County sheriff's deputies served an arrest warrant.",
+   "date": "2026-10-22T07:20:00+00:00"
+  },
+  {
+   "title": "Firefighter condemns \u2018lottery\u2019 remark, urges better support in South Korea - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkI3aHJJZm10eGhLTk85WWp4Zm8tQlpJLXZ4Ql9QWGs0RVJkNEVySlZEZXFqX0ZTUzQ2dFYta1JQT1NTM3NnN1ZqS0xiOV9MR1NfLWJqREV5bWVzVEVjOHB5bGVGbGhKb2V1dklUd1NwR3dpOUtNWmEtNzlPUnQybtIBlAFBVV95cUxQY2dDLU5FdUdvS185NC1IRGhOVXJXZXFqWUptRFpSdkkyRjRLZ05QZ0tPZmU3eG5IU1RNR21mTkUwLTI4bk1STFBuS0hGOWlJbkEzNmtLbkpjb251aWFBbERwUFR1aEx6NDZqSUF1RlFjRzgwNnV1STg0X0hoVGdQdnVsa1JrUnhsSUVnRVhuSWtsbWVh?oc=5",
+   "source": "Chosunbiz",
+   "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
+   "summary": "",
+   "date": "2026-10-22T06:17:00+00:00"
+  },
+  {
+   "title": "\"Even if I die, I have to die putting out a fire\"... A serving firefighter's response to the post saying \"Dying in the line of duty is like winning the lottery\"",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNbXJnSzUyLWh4Ylg1bzBrYWcxSWF5TENvVkVDTnY1VFNhQzhvNHlNX0RaMks0MW5TZG52TlhmU09FUEthRnNhOFgyaVd5WkRsbi1lTDhWZFhpUG9nT1QtUzRFdDY?oc=5",
+   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
+   "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
+   "summary": "",
+   "date": "2026-10-21T23:39:21+00:00"
+  },
+  {
+   "title": "35 Years After Firestorm, Brush Fire in CA Hills Damages Shuttered Estate",
+   "link": "https://www.fireengineering.com/firefighting/wildland-firefighting/35-years-after-firestorm-brush-fire-in-ca-hills-damages-shuttered-estate/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "A fire atop Panoramic Hill in Berkeley damaged one structure, was contained to under 1 acre by 75 firefighters, caused no injuries, and did not affect UC Berkeley campus operations.",
+   "date": "2026-10-21T21:53:00+00:00"
+  },
+  {
+   "title": "Data Center Firefighting, Powerlines/Electric Follow-up (The Secret List)",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTJsOG1nZUd6M0hoVDRTTDRwRVRjZi1xdk9nREFucFBjMzRYUG9PeWM0a2pvNjFpcUN1VXdoX1RLd095cVlDdUZjT2p0c213VzhvbWhSZUY0cFdULXJIdlBOMmdOdXZVNk1DZHNybXN3dmJLMEM3b2FEUDhhQm9CR3FuYzE5ejJEOUxMQUI0Q0VYOFVtS1hrRW9lS2NMd05nVWJKeUtmQUx6bzEyelE?oc=5",
+   "source": "Firefighter Close Calls",
+   "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
+   "summary": "",
+   "date": "2026-10-21T21:42:19+00:00"
+  },
+  {
+   "title": "Former Firefighter From Brenham (TX) Indicted for Arson",
+   "link": "https://www.firefighternation.com/news/former-firefighter-from-brenham-tx-indicted-for-arson/",
+   "source": "Firefighter Nation",
+   "feed": "Firefighter Nation",
+   "category": "News",
+   "summary": "A former volunteer firefighter of Brenham was indicted on a second-degree felony arson charge in connection with suspicious wildland fires south of Lake Somerville in 2020.",
+   "date": "2026-10-21T18:23:05+00:00"
+  },
+  {
+   "title": "27-Year Liberty Township (IN) Firefighter Dies",
+   "link": "https://www.firefighternation.com/lifestyle/firefighter-life/27-year-liberty-township-in-firefighter-dies/",
+   "source": "Firefighter Nation",
+   "feed": "Firefighter Nation",
+   "category": "News",
+   "summary": "Liberty Township Volunteer Fire Department is honoring Vernon Hyatte, 75, who died Friday after 27 years of service.",
+   "date": "2026-10-21T18:18:19+00:00"
+  },
+  {
+   "title": "Suffolk (VA) Firefighters Rescue Three from Condo Fire",
+   "link": "https://www.fireengineering.com/firefighting/suffolk-va-firefighters-rescue-three-from-condo-fire/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "Suffolk (VA) firefighters rescued three occupants from a three-alarm condo fire on October 18, 2026. The fire spread quickly due to wind, damaging multiple condos. No firefighters were injured.",
+   "date": "2026-10-21T18:07:05+00:00"
+  },
+  {
+   "title": "Meeting the Demand: The Next Generation of Fire Service Leadership",
+   "link": "https://www.fireengineering.com/firefighting/meeting-the-demand-the-next-generation-of-fire-service-leadership/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "Scott Thompson, John Salka, and Curtis Birt talk about cultivating future fire department leaders.",
+   "date": "2026-10-21T17:44:53+00:00"
+  },
+  {
+   "title": "Rural Maine ambulance service to close as volunteer ranks fall short",
+   "link": "https://www.ems1.com/volunteer-ems/rural-maine-ambulance-service-to-close-as-volunteer-ranks-fall-short",
+   "source": "EMS1",
+   "feed": "EMS1",
+   "category": "EMS",
+   "summary": "Wayne and Roberta Seely, in their 80s, are retiring after spending nearly two years and sending 800 letters trying to find enough volunteers to keep Dennys River Ambulance Service running",
+   "date": "2026-10-21T16:02:19+00:00"
+  },
+  {
+   "title": "Watch: Independence, MO, Aerial Hits Parked Car, Leaves Scene",
+   "link": "https://www.firehouse.com/apparatus/type/aerial/video/55413346/watch-independence-mo-aerial-hits-parked-car-leaves-scene",
+   "source": "Firehouse",
+   "feed": "Firehouse",
+   "category": "News",
+   "summary": "Police were notified only after the car's owner went to the Independence fire station to ask about the hit-and-run.",
+   "date": "2026-10-21T15:47:00+00:00"
+  },
+  {
+   "title": "Local Firefighters Rally for MA family",
+   "link": "https://www.firefighternation.com/lifestyle/firefighter-life/local-firefighters-rally-for-ma-family/",
+   "source": "Firefighter Nation",
+   "feed": "Firefighter Nation",
+   "category": "News",
+   "summary": "More than 50 fire, ambulance, and police vehicles joined a Salem drive-by salute for Sebastian Hanson, a teen with muscular dystrophy recently placed in hospice care.",
+   "date": "2026-10-21T15:34:25+00:00"
+  },
+  {
+   "title": "Parents Warned after Fire Stunts Leave Youths Hurt in Pittsfield, MA",
+   "link": "https://www.firehouse.com/ems/news/55413427/parents-warned-after-fire-stunts-leave-children-hurt-in-pittsfield-ma",
+   "source": "Firehouse",
+   "feed": "Firehouse",
+   "category": "News",
+   "summary": "The latest challenges on social media involve igniting isopropyl alcohol.",
+   "date": "2026-10-21T15:18:48+00:00"
+  },
+  {
+   "title": "Ohio chemical tank explosion forces 900 to evacuate amid toxic gas fears",
+   "link": "https://www.firerescue1.com/hazards-hazmat/ohio-chemical-tank-explosion-forces-900-to-evacuate-amid-toxic-gas-fears",
+   "source": "FireRescue1",
+   "feed": "FireRescue1",
+   "category": "News",
+   "summary": "Toledo officials ordered residents within a mile of the MC Tank Terminal to evacuate after an ongoing chemical release, while those within three miles were told to shelter in place",
+   "date": "2026-10-21T15:12:02+00:00"
+  },
+  {
+   "title": "Chemical Leak Prompts Evacuations in Toledo, OH",
+   "link": "https://www.firehouse.com/community-risk/investigation-equipment/video/55413401/chemical-leak-prompts-evacuations-in-toledo-oh",
+   "source": "Firehouse",
+   "feed": "Firehouse",
+   "category": "News",
+   "summary": "Toledo firefighters also issued a shelter-in-place early Wednesday due to the leaking tank of glycidyl methacrylate.",
+   "date": "2026-10-21T15:04:19+00:00"
   },
   {
    "title": "Always look at the baby",
@@ -160,6 +529,15 @@
    "date": "2026-10-21T13:52:45+00:00"
   },
   {
+   "title": "OH Chemical Tank Explosion Spurs Evacuations, Fear of Another Blast",
+   "link": "https://www.fireengineering.com/technical-rescue/firefighter-hazmat/evacuations-and-shelter-in-place-orders-after-oh-chemical-release/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "A chemical tank explosion in Toledo released glycidyl methacrylate, prompting evacuations and shelter-in-place orders due to toxic and explosive risks.",
+   "date": "2026-10-21T13:51:03+00:00"
+  },
+  {
    "title": "Monument Honors 700 Firefighters who Battled 1975 Factory Blaze in Shelton, CT",
    "link": "https://www.firehouse.com/community-risk/investigation-equipment/video/55413363/monument-honors-700-firefighters-who-battled-1975-factory-blaze-in-shelton-ct",
    "source": "Firehouse",
@@ -167,6 +545,24 @@
    "category": "News",
    "summary": "A firefighter involved in the operation at the B.F. Goodrich plant recalled the numerous explosions.",
    "date": "2026-10-21T13:44:48+00:00"
+  },
+  {
+   "title": "St. Lucie County firefighters respond to 2 structure fires, rescue cat",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVTN4TGJxeTF6NDdMZThnN1hhTXE5ZHJFU1J2SWluNkNsNmM1M2R2eC1KVTBVaDh6SHh2OGVmVV8wQkk4X3hDbGFpMG92WVRlYm9zVjhCR29BQUloY3RKVmlpSDZCQWhYWk5KMm5YVXNwbzExcTRRQk1rM0pscjRGcUgzR1BjQlBNaWdNOEhSU2NfTVNzeFpWUWFRNlNXSFhvTGJlQUZ0MTlPcmx3ZDZheW5zaw?oc=5",
+   "source": "dailydispatch.com",
+   "feed": "Florida Fire Service (news)",
+   "category": "Florida",
+   "summary": "",
+   "date": "2026-10-21T13:39:01+00:00"
+  },
+  {
+   "title": "Mistrial Declared in 2022 Baltimore Triple-LODD Fire Arson Case",
+   "link": "https://www.fireengineering.com/firefighting/mistrial-declared-in-2022-baltimore-triple-lodd-fire-arson-case/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "A mistrial was declared in the case of a Baltimore man charged with arson and manslaughter for a 2022 Baltimore rowhouse fire that killed three firefighters.",
+   "date": "2026-10-21T13:33:03+00:00"
   },
   {
    "title": "People Power Party Condemns Mayor Jo's Singing Amid Firefighter Death",
@@ -187,22 +583,13 @@
    "date": "2026-10-21T13:00:00+00:00"
   },
   {
-   "title": "Mistrial declared in fire case that killed 3 Baltimore firefighters",
+   "title": "Mistrial declared in trial over fire that killed 3 Baltimore firefighters",
    "link": "https://www.firerescue1.com/legal/mistrial-declared-in-fire-case-that-killed-3-baltimore-firefighters",
    "source": "FireRescue1",
    "feed": "FireRescue1",
    "category": "News",
    "summary": "Jurors were unable to reach a unanimous verdict on any of the nine charges against the man on trial, with prosecutors citing surveillance footage and ATF analysis while the defense disputed the coat seen in the video",
    "date": "2026-10-21T12:57:21+00:00"
-  },
-  {
-   "title": "Watch: Independence, MO, Aerial Hits Parked Car, Leaves Scene",
-   "link": "https://www.firehouse.com/apparatus/type/aerial/video/55413346/watch-independence-mo-aerial-hits-parked-car-leaves-scene",
-   "source": "Firehouse",
-   "feed": "Firehouse",
-   "category": "News",
-   "summary": "Police were notified only after the car's owner went to the Independence fire station to ask about the hit-and-run.",
-   "date": "2026-10-21T12:47:16+00:00"
   },
   {
    "title": "Letter: The EMS Workforce Needs Retention, Not Replacement",
@@ -214,6 +601,15 @@
    "date": "2026-10-21T12:30:00+00:00"
   },
   {
+   "title": "\u2018The Department is Moving Forward\u2019; Fitchburg (MA) Appoints New Acting Chief",
+   "link": "https://www.fireengineering.com/firefighting/fire-leadership/the-department-is-moving-forward-fitchburg-ma-appoints-new-acting-chief/",
+   "source": "Fire Engineering",
+   "feed": "Fire Engineering",
+   "category": "Training",
+   "summary": "Fitchburg appointed Deputy Chief Andy Roy as acting fire chief after Patrick Haverty retired.",
+   "date": "2026-10-21T12:23:25+00:00"
+  },
+  {
    "title": "Eight Decades In, EMS Agency Wants to Keep Responding in San Luis Obispo County, CA",
    "link": "https://www.firehouse.com/ems/news/55413343/eight-decades-in-ems-agency-wants-to-keep-responding-in-san-luis-obispo-county-ca",
    "source": "Firehouse",
@@ -223,24 +619,6 @@
    "date": "2026-10-21T12:03:33+00:00"
   },
   {
-   "title": "First responders warn of dangerous social media fire stunt challenges",
-   "link": "https://www.firerescue1.com/fire-prevention/first-responders-warn-of-dangerous-social-media-fire-stunt-challenges",
-   "source": "FireRescue1",
-   "feed": "FireRescue1",
-   "category": "News",
-   "summary": "Officials say the TikTok challenges, which encourage children to ignite isopropyl alcohol for effects like \u201cfire-breathing,\u201d can cause severe burns or house fires, after a 9-year-old New Orleans boy was burned over 70%\u2026",
-   "date": "2026-10-21T11:30:00+00:00"
-  },
-  {
-   "title": "Sulfur explosion sparks large fire at Iowa grain elevator",
-   "link": "https://www.firerescue1.com/mutual-and-automatic-aid/sulfur-explosion-sparks-large-fire-at-iowa-grain-elevator",
-   "source": "FireRescue1",
-   "feed": "FireRescue1",
-   "category": "News",
-   "summary": "Firefighters battled the blaze for nearly 10 hours after a series of dust explosions triggered rapid fire spread through the Osage facility, requiring mutual aid from multiple departments",
-   "date": "2026-10-21T11:09:39+00:00"
-  },
-  {
    "title": "PA Rep. Proposes Grant Program to Help Small Volunteer Fire/EMS Departments",
    "link": "https://www.fireapparatusmagazine.com/equipment/equipment-grants/pa-rep-proposes-grant-program-to-help-small-volunteer-fire-ems-departments/",
    "source": "Fire Apparatus Magazine",
@@ -248,24 +626,6 @@
    "category": "Apparatus & Gear",
    "summary": "Rep. Brenda Pugh introduced a bill to help Pennsylvania volunteer fire and EMS groups with grants and consolidation incentives as departments face staffing and financial strain. The post PA Rep. Proposes Grant Program\u2026",
    "date": "2026-10-21T10:45:16+00:00"
-  },
-  {
-   "title": "Remediation Work to Begin at WV Coal Seam Fire That\u2019s Burned for Decades",
-   "link": "https://www.fireengineering.com/firefighting/remediation-work-to-begin-at-wv-coal-seam-fire-thats-burned-for-decades/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "A subterranean coal seam fire beneath Nellie Lane in White Hall caused ground shifts and damage to homes.",
-   "date": "2026-10-21T10:41:22+00:00"
-  },
-  {
-   "title": "The Rescue Leadership Playbook: Large-Area Searches",
-   "link": "https://www.fireengineering.com/technical-rescue/the-rescue-leadership-playbook-large-area-searches/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "Large-area searches can begin with a handful of responders and quickly grow into complex, multiagency operations covering miles of terrain. Robin Nicoson on how departments can prepare for these incidents.",
-   "date": "2026-10-21T09:58:00+00:00"
   },
   {
    "title": "When the Sirens Stop: The Hidden Crisis in Fire Service Retirement",
@@ -313,15 +673,6 @@
    "date": "2026-10-21T09:37:38+00:00"
   },
   {
-   "title": "HI to Pay Tuition in Exchange for Five Years Working in Rural Area",
-   "link": "https://www.jems.com/ems-training/hi-to-pay-tuition-in-exchange-for-five-years-working-in-rural-area/",
-   "source": "JEMS",
-   "feed": "JEMS",
-   "category": "EMS",
-   "summary": "Hawaii\u2019s University of Hawaii John A. Burns School of Medicine launched a program paying tuition for students who commit to five years of work in rural Hawaii.",
-   "date": "2026-10-21T09:33:50+00:00"
-  },
-  {
    "title": "Can You Afford a Full-Body Scan? Can You Afford Not to Have One?",
    "link": "https://www.firefighternation.com/health-wellness/physical-health/can-you-afford-a-full-body-scan-can-you-afford-not-to-have-one/",
    "source": "Firefighter Nation",
@@ -340,69 +691,6 @@
    "date": "2026-10-21T09:28:05+00:00"
   },
   {
-   "title": "Waverly (IL) Fire Protection District Receives $25,000 Grant for Communications Gear",
-   "link": "https://www.fireapparatusmagazine.com/equipment/radio-communication-tools/waverly-il-fire-protection-district-receives-25000-grant-for-communications-gear/",
-   "source": "Fire Apparatus Magazine",
-   "feed": "Fire Apparatus Magazine",
-   "category": "Apparatus & Gear",
-   "summary": "Waverly Fire Protection District received a $25,000 Energy Transfer grant to buy emergency communications equipment as local dispatch systems transition to new radio networks. The post Waverly (IL) Fire Protection\u2026",
-   "date": "2026-10-21T09:25:25+00:00"
-  },
-  {
-   "title": "Bryant (IN) Volunteer Fire Department Receives Boat Donation",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/bryant-in-volunteer-fire-department-receives-boat-donation/",
-   "source": "Fire Apparatus Magazine",
-   "feed": "Fire Apparatus Magazine",
-   "category": "Apparatus & Gear",
-   "summary": "Bryant Volunteer Fire Department received a donated search and rescue boat. The post Bryant (IN) Volunteer Fire Department Receives Boat Donation appeared first on Fire Apparatus: Fire trucks, fire engines, emergency\u2026",
-   "date": "2026-10-21T09:21:47+00:00"
-  },
-  {
-   "title": "Orion Township (MI) Fire Chief Resigns",
-   "link": "https://www.fireengineering.com/firefighting/fire-leadership/orion-township-mi-fire-chief-resigns/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "Orion Township Fire Chief Ryan Allen resigned effective Oct. 1 for personal reasons, one month before a crucial fire department funding millage vote.",
-   "date": "2026-10-21T09:16:12+00:00"
-  },
-  {
-   "title": "Neighborhood Shelters in Place as Ordnance Removed from CO House Fire",
-   "link": "https://www.fireengineering.com/firefighting/neighborhood-shelters-in-place-as-ordnance-removed-from-co-house-fire/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "Legacy military ordnance found after a Loveland house fire was confirmed safe and without live explosives by F.E. Warren AFB officials, who confiscated the munition.",
-   "date": "2026-10-21T09:13:52+00:00"
-  },
-  {
-   "title": "CA Judge Approves $125 Million Settlement to Pay for Hazmat Incident",
-   "link": "https://www.fireengineering.com/technical-rescue/firefighter-hazmat/ca-judge-approves-125-million-settlement-to-pay-for-hazmat-incident/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "An Orange County judge approved a $125 million agreement between prosecutors and GKN Aerospace to compensate for a chemical scare that forced evacuations near a Garden Grove plant.",
-   "date": "2026-10-21T09:07:00+00:00"
-  },
-  {
-   "title": "Fire in Omaha (NE) Residence Confined to Laundry Room",
-   "link": "https://www.fireengineering.com/firefighting/fire-in-omaha-ne-residence-confined-to-laundry-room/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "Firefighters contained a laundry room fire at a northwest Omaha home.",
-   "date": "2026-10-21T09:03:08+00:00"
-  },
-  {
-   "title": "Staten Island (NY) University Hospital Opens Applications for 2027 EMT Scholarship Program",
-   "link": "https://www.jems.com/ems-training/staten-island-ny-university-hospital-opens-applications-for-2027-emt-scholarship-program/",
-   "source": "JEMS",
-   "feed": "JEMS",
-   "category": "EMS",
-   "summary": "Northwell Staten Island University Hospital is accepting applications for its 2027 EMT Scholarship Program in Staten Island, offering 10 community members EMT training.",
-   "date": "2026-10-21T08:39:00+00:00"
-  },
-  {
    "title": "Six Ways to Use AI to Actually Make You Smarter",
    "link": "https://www.firefighternation.com/health-wellness/firefighter-mental-health/six-ways-to-use-ai-to-actually-make-you-smarter/",
    "source": "Firefighter Nation",
@@ -412,15 +700,6 @@
    "date": "2026-10-21T07:59:00+00:00"
   },
   {
-   "title": "Choo Miae Orders Probe Into Firefighter's Line-of-Duty Death, Launches Safety Task Force",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SZ3RjUWZ6eDBaMi03dXRIb3d5R3k3TGd4TzJMdTBfU0NLNC1OSTVJbXhSMEdDQ0dIMW5xU003Y0lmVndKbFB2OGlFQ1lqSTB1bUx1OHNCSEtNcmJ6akRoS1gtSGk?oc=5",
-   "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
-   "feed": "Line of Duty Deaths (news)",
-   "category": "LODD",
-   "summary": "",
-   "date": "2026-10-21T06:01:56+00:00"
-  },
-  {
    "title": "Major DC911 delay in deadly Dupont Circle shooting",
    "link": "https://statter911.com/2026/10/21/major-dc911-delay-in-deadly-dupont-circle-shooting/",
    "source": "Statter911",
@@ -428,33 +707,6 @@
    "category": "News",
    "summary": "Police urgently called for EMS for more than 15 minutes as they did CPR on Ronnie Massey The post Major DC911 delay in deadly Dupont Circle shooting appeared first on Statter911 .",
    "date": "2026-10-21T05:46:45+00:00"
-  },
-  {
-   "title": "CPSE releases implementation guide for drone as first responder programs",
-   "link": "https://www.firerescue1.com/uas-uav-and-drones/cpse-releases-implementation-guide-for-drone-as-first-responder-programs",
-   "source": "FireRescue1",
-   "feed": "FireRescue1",
-   "category": "News",
-   "summary": "The 32-page guide outlines 21 considerations for moving DFR programs from concept to operation, drawing on input from seven accredited fire agencies",
-   "date": "2026-10-21T05:44:55+00:00"
-  },
-  {
-   "title": "Police Charge Factory Rep, Launch Forced Probe After Fire Death",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkF6Mjd1dWVrV1ZVVUNPMjF0WVJfallsQ2VTUDdOT0pEMURSdWE1ejBJcV9wZFhhUm9LNFkzYzQ1UHVtTkU5Rk9EdUtWclQ3aTI3czZUX0k3OXNzQ1ExLTVrUGJ6ZWhjWkVCSUFzVldRU0xYcFRoTlFtTTNVQnFlV2MtU1hnZEQ4?oc=5",
-   "source": "\uc870\uc120\uc77c\ubcf4",
-   "feed": "Line of Duty Deaths (news)",
-   "category": "LODD",
-   "summary": "",
-   "date": "2026-10-21T05:39:52+00:00"
-  },
-  {
-   "title": "McLaren Ignites in Police Storage After Deadly CA Crash",
-   "link": "https://www.fireengineering.com/fire-safety/mclaren-ignites-in-police-storage-after-deadly-ca-crash/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "A McLaren 720S involved in a deadly Irvine crash spontaneously ignited 31 days later in a secure Costa Mesa facility.",
-   "date": "2026-10-21T03:30:00+00:00"
   },
   {
    "title": "Mistrial Declared in Baltimore LODD Arson after Jurors Deadlocked",
@@ -475,22 +727,13 @@
    "date": "2026-10-20T22:37:40+00:00"
   },
   {
-   "title": "St. Lucie County firefighters respond to 2 structure fires, rescue cat",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUkhfNXVuZ1Z1ck9KZFlsY1BLNk1hTlA3Qk1OOTg1bElMNFlBTGlBcktRbzFuWFVVU19PTFQwc0g3RE9QVDhpdmZqdnFFLXZfNFVWRm1pREVURXpHVEhsZy1fQ29USGJ3TlF2aEExMDl3RUlVdkZ4c3Exa1BsMWNySFp1N1JxMlFNMHpENDlUS0Z2cUQtUl9RRk9WRjlWMVUwN21TbUYwcmJ3ZTl0aFhJemhiWmR2X3E5U2lOSWowVlVzc2RsWktXZUNWdzBROWw5NlJEMVl5VkY1T3AwcHpVYklHSEQteGc2RTgwNzM3RlVfdEJYa2lBNE5OSzlvdw?oc=5",
-   "source": "WPEC",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
+   "title": "Alexandria firefighter dies while battling wildfire; memorial set for Wednesday",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVp1aXpsSEFITnM2Yl8yLVNSX1BMb0tjaU05TURZT2Q1SDBjU29JR09GQ2lVZFdqV3hYcHotdXlGOVpMRmVodHZ4bDBucDlJYU5TVHZqN3dLS0xCcU5jMFR0MkZ0NU9tOHNDSUxEZVVjajhWd2wyTnhuZ0g1WTB2eGYwdGp5d2xrN090TjRhaEZpNnFmNS13Y0FBUzNEa2R1TDBvYTc5VURXWXp2QXNac2lDVnNWa0J2Uy01OTR5QUM?oc=5",
+   "source": "WBRZ",
+   "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
    "summary": "",
-   "date": "2026-10-20T19:27:34+00:00"
-  },
-  {
-   "title": "Stats every firefighter should know about Halloween fires",
-   "link": "https://www.firerescue1.com/arson-investigation/articles/stats-every-firefighter-should-know-about-halloween-fires-g5Hbw55luy3287y6/",
-   "source": "FireRescue1",
-   "feed": "FireRescue1",
-   "category": "News",
-   "summary": "Halloween fires account for an average of 25 deaths per year, according to the U.S. Fire Administration",
-   "date": "2026-10-20T19:27:00+00:00"
+   "date": "2026-10-20T19:28:34+00:00"
   },
   {
    "title": "10 of America's most haunted fire stations",
@@ -565,15 +808,6 @@
    "date": "2026-10-20T15:30:27+00:00"
   },
   {
-   "title": "Apparatus: The Shops: Industry Trends and Priorities, Needs vs. Wants",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/apparatus-the-shops-industry-trends-and-priorities-needs-vs-wants/",
-   "source": "Fire Apparatus Magazine",
-   "feed": "Fire Apparatus Magazine",
-   "category": "Apparatus & Gear",
-   "summary": "Fire service/EMS always has new gizmos and gadgets. The challenge for apparatus committees is to build safe, reliable, and effective units that balance innovation and practicality. The post Apparatus: The Shops\u2026",
-   "date": "2026-10-20T14:45:23+00:00"
-  },
-  {
    "title": "Strengthen clinical decision-making with capnography",
    "link": "https://www.ems1.com/ems-products/Capnography/strengthen-clinical-decision-making-with-capnography",
    "source": "EMS1",
@@ -590,24 +824,6 @@
    "category": "EMS",
    "summary": "Discover how St. Charles County Ambulance District achieved top-tier airway care through culture, custom tech, and real-time feedback. A model for EMS excellence.",
    "date": "2026-10-20T14:34:00+00:00"
-  },
-  {
-   "title": "Chaos, Conferences, and Contaminated Coffee: Inside the Fire Service with the Quick Knock",
-   "link": "https://www.firefighternation.com/fire-leadership/career-development/chaos-conferences-and-contaminated-coffee-inside-the-fire-service-with-the-quick-knock/",
-   "source": "Firefighter Nation",
-   "feed": "Firefighter Nation",
-   "category": "News",
-   "summary": "This episode of The Quick Knock covers fire service accountability, department policies, and questions about covering for bad behavior.",
-   "date": "2026-10-20T13:45:35+00:00"
-  },
-  {
-   "title": "NY Project to Test Whether Larger Batteries Can Power Residential Buildings",
-   "link": "https://www.fireengineering.com/fire-safety/ny-project-to-test-larger-batteries-can-power-residential-buildings/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "A Buffalo apartment building installed a 3.75 MWh lithium-ion battery to store excess energy and provide backup during outages, demonstrating safe large-scale residential energy storage.",
-   "date": "2026-10-20T13:27:42+00:00"
   },
   {
    "title": "Ex-Redmond, WA, Firefighters Appeal COVID-19 Vaccination Ruling",
@@ -628,42 +844,6 @@
    "date": "2026-10-20T13:00:00+00:00"
   },
   {
-   "title": "Wash. fire chief warns city must find long-term funding for EMS",
-   "link": "https://www.ems1.com/legislation-funding/wash-fire-chief-warns-city-must-find-long-term-funding-for-ems",
-   "source": "EMS1",
-   "feed": "EMS1",
-   "category": "EMS",
-   "summary": "Ephrata Chief Jeremy Burns told the city council that EMS needs a sustainable funding source beyond the general fund, floating a voter-approved EMS levy or utility model used in nearby cities",
-   "date": "2026-10-20T12:51:14+00:00"
-  },
-  {
-   "title": "Talking Trucks: Being Partners",
-   "link": "https://www.fireapparatusmagazine.com/podcasts/talking-trucks-being-partners/",
-   "source": "Fire Apparatus Magazine",
-   "feed": "Fire Apparatus Magazine",
-   "category": "Apparatus & Gear",
-   "summary": "Participants discuss building genuine partnerships with manufacturers and suppliers. The post Talking Trucks: Being Partners appeared first on Fire Apparatus: Fire trucks, fire engines, emergency vehicles, and\u2026",
-   "date": "2026-10-20T12:42:20+00:00"
-  },
-  {
-   "title": "Coral Springs-Parkland (FL) Gets Incident Support Unit",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/coral-springs-parkland-fl-gets-incident-support-unit/",
-   "source": "Fire Apparatus Magazine",
-   "feed": "Fire Apparatus Magazine",
-   "category": "Apparatus & Gear",
-   "summary": "Emergency Vehicles Inc. (EVI) built an incident support unit for the Coral Springs-Parkland (FL) Fire Department. The post Coral Springs-Parkland (FL) Gets Incident Support Unit appeared first on Fire Apparatus: Fire\u2026",
-   "date": "2026-10-20T12:37:32+00:00"
-  },
-  {
-   "title": "Medical Directors in the Classroom",
-   "link": "https://www.jems.com/ems-training/medical-directors-in-the-classroom/",
-   "source": "JEMS",
-   "feed": "JEMS",
-   "category": "EMS",
-   "summary": "The paramedic program at Indianapolis EMS uses monthly lectures by the medical director, real cases and gamified exercises to boost student engagement and mentorship.",
-   "date": "2026-10-20T12:30:00+00:00"
-  },
-  {
    "title": "Carroll County, MD, Creates Revolving Loan Fund for Volunteer Fire Companies",
    "link": "https://www.firehouse.com/apparatus/news/55413014/carroll-county-md-creates-revolving-loan-fund-for-volunteer-fire-companies",
    "source": "Firehouse",
@@ -671,24 +851,6 @@
    "category": "News",
    "summary": "The $10 million fund will help the 14 fire companies purchase apparatus, Carroll County Fire Rescue Chief Michael Robinson said.",
    "date": "2026-10-20T12:11:38+00:00"
-  },
-  {
-   "title": "Ephrata (WA) Fire Department Reports Strong Volunteer Force, Seeks Long-Term EMS Funding Solution",
-   "link": "https://www.jems.com/ems-operations/ephrata-wa-fire-department-reports-strong-volunteer-force-seeks-long-term-ems-funding-solution/",
-   "source": "JEMS",
-   "feed": "JEMS",
-   "category": "EMS",
-   "summary": "With its ambulance contract extended through 2030, Ephrata is weighing dedicated EMS funding options to cover rising costs and ease pressure on the general fund.",
-   "date": "2026-10-20T12:09:15+00:00"
-  },
-  {
-   "title": "Two Killed, Two Firefighters Injured in Wilmington (DE) Row House Fire",
-   "link": "https://www.fireengineering.com/firefighting/two-killed-two-firefighters-injured-in-wilmington-de-rowhouse-fire/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "A Wilmington rowhouse fire early Tuesday killed two residents and injured two firefighters. The fire spread through all three floors of the structure, causing a partial collapse before being contained.",
-   "date": "2026-10-20T12:00:01+00:00"
   },
   {
    "title": "Rhome, TX, Firefighter Arrested in Station for Solicitation of Minor",
@@ -700,78 +862,6 @@
    "date": "2026-10-20T11:54:47+00:00"
   },
   {
-   "title": "NC 911 Caller With Appendicitis Asks for an Ambulance, Offered a Lyft Rideshare Instead",
-   "link": "https://www.jems.com/ems-operations/nc-911-caller-with-appendicitis-asks-for-an-ambulance-offered-a-lyft-rideshare-instead/",
-   "source": "JEMS",
-   "feed": "JEMS",
-   "category": "EMS",
-   "summary": "A Wake County man with appendicitis said he was offered a Lyft after calling 911 in severe pain.",
-   "date": "2026-10-20T11:42:00+00:00"
-  },
-  {
-   "title": "NYC ambulance response times up nearly 4 minutes since 2015, report finds",
-   "link": "https://www.ems1.com/response-times/nyc-ambulance-response-times-up-nearly-4-minutes-since-2015-report-finds",
-   "source": "EMS1",
-   "feed": "EMS1",
-   "category": "EMS",
-   "summary": "Comptroller Mark Levine\u2019s report recommends closing the roughly $51,000 pay gap between FDNY EMTs and firefighters, estimated to cost $300 million annually, as life-threatening emergency response times have slowed from\u2026",
-   "date": "2026-10-20T11:38:51+00:00"
-  },
-  {
-   "title": "Fired Wash. firefighters appeal ruling over COVID vaccine mandate lawsuit",
-   "link": "https://www.ems1.com/legal/fired-wash-firefighters-appeal-ruling-over-covid-vaccine-mandate-lawsuit",
-   "source": "EMS1",
-   "feed": "EMS1",
-   "category": "EMS",
-   "summary": "Eight former Redmond firefighters are challenging a 2025 district court ruling that sided with the city\u2019s denial of religious accommodations to its 2021 vaccine mandate",
-   "date": "2026-10-20T11:19:32+00:00"
-  },
-  {
-   "title": "A Life-Threatening Emergency, an Ambulance Called\u2026and, in NYC, then a Wait",
-   "link": "https://www.jems.com/ems-operations/a-life-threatening-emergency-an-ambulance-called-and-in-nyc-then-a-wait/",
-   "source": "JEMS",
-   "feed": "JEMS",
-   "category": "EMS",
-   "summary": "Comptroller Mark Levine reported New York City ambulance response times have risen since 2015..",
-   "date": "2026-10-20T10:59:39+00:00"
-  },
-  {
-   "title": "Supreme Court rejects bid to revive 9/11 mastermind\u2019s plea deal",
-   "link": "https://www.ems1.com/9-11/supreme-court-rejects-bid-to-revive-9-11-masterminds-plea-deal",
-   "source": "EMS1",
-   "feed": "EMS1",
-   "category": "EMS",
-   "summary": "The high court\u2019s ruling leaves in place former Defense Secretary Lloyd Austin\u2019s 2024 decision to void Khalid Sheikh Mohammed\u2019s plea agreement sparing him execution",
-   "date": "2026-10-20T10:59:30+00:00"
-  },
-  {
-   "title": "One Dead in Fatal Fire at MA Apartment Building",
-   "link": "https://www.fireengineering.com/firefighting/one-dead-in-fatal-fire-at-ma-apartment-building/",
-   "source": "Fire Engineering",
-   "feed": "Fire Engineering",
-   "category": "Training",
-   "summary": "One person died in a Chicopee apartment fire. Firefighters contained the fire to one unit.",
-   "date": "2026-10-20T10:30:56+00:00"
-  },
-  {
-   "title": "Carroll County (MD) Creates $10M Loan Fund to Help Volunteer Fire Companies Buy Apparatus",
-   "link": "https://www.fireapparatusmagazine.com/fire-apparatus/carroll-county-md-creates-10m-loan-fund-to-help-volunteer-fire-companies-buy-apparatus/",
-   "source": "Fire Apparatus Magazine",
-   "feed": "Fire Apparatus Magazine",
-   "category": "Apparatus & Gear",
-   "summary": "Carroll County created a $10 million revolving loan fund to help 14 volunteer fire companies pay for new fire apparatus. The post Carroll County (MD) Creates $10M Loan Fund to Help Volunteer Fire Companies Buy Apparatus\u2026",
-   "date": "2026-10-20T09:34:08+00:00"
-  },
-  {
-   "title": "Penn Valley (CA) Firefighters Awarded Grant for Emergency Extrication Tools",
-   "link": "https://www.fireapparatusmagazine.com/equipment/equipment-grants/penn-valley-ca-firefighters-awarded-grant-for-emergency-extrication-tools/",
-   "source": "Fire Apparatus Magazine",
-   "feed": "Fire Apparatus Magazine",
-   "category": "Apparatus & Gear",
-   "summary": "Penn Valley Fire Protection District received a $177,000 grant for a new battery-powered extraction tool for crashes, expected to arrive in December. The post Penn Valley (CA) Firefighters Awarded Grant for Emergency\u2026",
-   "date": "2026-10-20T09:29:55+00:00"
-  },
-  {
    "title": "Former Los Angeles IAFF Head Accused of Punching Treasurer in Groin",
    "link": "https://www.firehouse.com/careers-education/news/55413065/former-los-angeles-iaff-head-accused-of-punching-treasurer-in-groin",
    "source": "Firehouse",
@@ -779,15 +869,6 @@
    "category": "News",
    "summary": "The treasurer of United Firefighters of Los Angeles reported the alleged incident to police, who are investigating.",
    "date": "2026-10-20T08:46:00+00:00"
-  },
-  {
-   "title": "Up to $200K Available to Local Fire, EMS Departments Through the AES Safer Tomorrow Fund",
-   "link": "https://www.firefighternation.com/finance/fire-service-grants/local-fire-ems-departments-aes-safer-tomorrow-fund/",
-   "source": "Firefighter Nation",
-   "feed": "Firefighter Nation",
-   "category": "News",
-   "summary": "AES has partnered with the National Volunteer Fire Council (NVFC) to provide the AES Safer Tomorrow Fund. In total, up to $200,000 will be provided to local departments.",
-   "date": "2026-10-20T04:41:00+00:00"
   },
   {
    "title": "Man Charged in Hit-and-Run Ambulance Crash that Injured Troy, NY, Firefighters",
@@ -824,15 +905,6 @@
    "category": "Florida",
    "summary": "",
    "date": "2026-10-19T15:45:05+00:00"
-  },
-  {
-   "title": "Shelton (CT) Dedicates Monument Honoring Firefighters Who Battled 1975 B.F. Goodrich Fire",
-   "link": "https://www.firefighternation.com/news/shelton-ct-dedicates-monument-honoring-firefighters-who-battled-1975-b-f-goodrich-fire/",
-   "source": "Firefighter Nation",
-   "feed": "Firefighter Nation",
-   "category": "News",
-   "summary": "Shelton unveiled a monument honoring first responders to the 1975 B.F. Goodrich factory fire, which devastated the city and destroyed its economic foundation.",
-   "date": "2026-10-19T15:13:01+00:00"
   },
   {
    "title": "Fire Destroys 27 Commercial Vehicles in Waldorf, MD, Lot",
@@ -898,40 +970,13 @@
    "date": "2026-10-19T13:00:00+00:00"
   },
   {
-   "title": "Massive Fire at Canada Military Base Leaves Four Dead and Dozens Injured",
-   "link": "https://www.firehouse.com/community-risk/investigation-equipment/video/55412652/massive-fire-at-canada-military-base-leaves-four-dead-and-dozens-injured",
-   "source": "Firehouse",
-   "feed": "Firehouse",
-   "category": "News",
-   "summary": "Troops were conducting \"high-intensity combat training with live munitions\" when a grass fire ignited and spread.",
-   "date": "2026-10-19T12:30:52+00:00"
-  },
-  {
-   "title": "U.S. Forest Service Firefighter Killed by Falling Tree at Wildfire in Louisiana",
-   "link": "https://www.firehouse.com/lodds/video/55412651/us-forest-service-firefighter-killed-by-falling-tree-in",
-   "source": "Firehouse",
-   "feed": "Firehouse",
-   "category": "News",
-   "summary": "Firefighter Kaitlyn 'KK' Gallagher was killed while battling a wildfire in the Kisatchie National Forest.",
-   "date": "2026-10-19T12:20:16+00:00"
-  },
-  {
-   "title": "Firehouse's Mentor Monday: Culture Starts with You",
-   "link": "https://www.firehouse.com/leadership/video/55412617/firehouses-mentor-monday-culture-starts-with-you",
-   "source": "Firehouse",
-   "feed": "Firehouse",
-   "category": "News",
-   "summary": "In Firehouse's Mentor Monday, Chief Jacob Johnson answers a viewer's question about culture and where the responsibility lies.",
-   "date": "2026-10-19T11:00:00+00:00"
-  },
-  {
-   "title": "Durham firefighter who died in the line of duty is laid to rest in Burlington",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd0thWUdqZDhYOF8zXzkwN0pvaGdKT2FJRzg0Y05BMFc4d2ZWRC1qdEZacmJVNjd2Y09mNHc1b2dqcUpWanhZZFU5VmRXaFVXdmRIUXdFZkNtdnZSWWJlMmd2SnVGTnYzTW8zQXMzcnNORXJlUi1QVlVaS3NKOXFOWlVFX2Rta3I5Y3JYdlA4UDl1U19NQUNsd0dCdE5mWXZMb3J1NzdPeVVESXZYLWNJSmxaeUhSNkdvc0dmVUlLWkVGU2pa0gHKAUFVX3lxTE5RaEJDRXBqSFAyMUZBSnYxa2xtRGcwRVllZmhxZnVLQUJLSEozb05PalV0QkxMYnlnem1xM3dmTEZZdmR4NFVMQThuZnVIbXh5Wmp0Y04yZkpSUDBHSVdtdTBHT1huZ01fUlhOMWpaaEpHZ3pUR0ZpZkZiZ1IxaWw1UWNTd2lyMXNjckVnRmswV2FJTHY4T1JoQkdoYUhWUFphMGxUaUZJQklwakxZR0lSSVBmT1kyOGRjeGtITGlac2R5NVVOa1kwM0E?oc=5",
-   "source": "FOX8 WGHP",
+   "title": "Kisatchie National Forest firefighter dies in line of duty while responding to Rapides Parish wildfire",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ1h1aDRrTHVqYUNDaUFic0FMTjFJN21RbjRKb2VaWkNZZElOc0hpTWZWbHVoUTRTZXU1SFJMYW4zQ2txSHdhRmFVU3RRd013aTdNU0liSmhwM2lTVlNKcE5ldlJuUGsyMFp2aEx4WFFHVDZFcmhNTmNwUEFXT09oOTl2czQzal9fMXFvby1teDY2SE9BUTZ5T0d2Q1lvT3czaGNZWjJnLTYwYUtUaXZiOWRyZHBZNlJ4Qk9uajVDYUhaSndDU01mbFRISDB0SVBMODRQZmtkWmhScUt5ZUlndQ?oc=5",
+   "source": "Rapides Parish Journal",
    "feed": "Line of Duty Deaths (news)",
    "category": "LODD",
    "summary": "",
-   "date": "2026-10-17T22:53:37+00:00"
+   "date": "2026-10-19T10:34:00+00:00"
   },
   {
    "title": "'We appreciate your commitment to public safety': Orange County firefighters union endorses Mike Haridopolos",
@@ -941,6 +986,15 @@
    "category": "Union",
    "summary": "",
    "date": "2026-10-17T20:36:22+00:00"
+  },
+  {
+   "title": "Durham Fire Department to honor firefighter who died in line of duty",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1NUNG9CNVM3TVZRa1RvQ2JDYUJDTlo4RkVYSDZJOTh1QkNUaHdobU83YjExU0RhOGM0eHVxMVdPTWtNQV9GcUgtV080TDYtTGRjdS0tUzNDQTF1WGc0cDNVYXpYQURXYWZ0d1RBTnhEcjNySm4taXpJNG43UGJYbnFJQjBLUWUtYzVObGhzWld0SFJhRnU2eHNXdnB0Z3p3MmpVQUxpVmhvYjQyMXQzd1JSUXZOV09oaXVhekVheWQxVGdC0gHKAUFVX3lxTE5WYVVFWTVoMWxUZ1FmVGRYSGgzVm9BVEFpMmJpSWNBbk1fM2JhRFBvb3N1cTg2WDJ5aWpJbDdCTzR3YXE1WVBvZEJUWTlYNXZvSFNROWg5UzdTOUdURzlaUzlGVzZwbWQwbEpFencyN1N0aGdjU1pHdG84cWk4MTdrMURxOUZPNl9qUGJ5c0JYWDhfVmZDTGVWSFdlS1V6RkxnbjZaRnpxNUcyNVRYcmZUNkRLS2pIUUxLRHZqbjBpcVFKaldoc3Y2eUE?oc=5",
+   "source": "CBS17.com",
+   "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
+   "summary": "",
+   "date": "2026-10-17T19:51:44+00:00"
   },
   {
    "title": "Wildland firefighter dies after being struck by tree during La. wildfire",
@@ -970,33 +1024,6 @@
    "date": "2026-10-16T19:50:29+00:00"
   },
   {
-   "title": "Kisatchie National Forest firefighter dies in line of duty while responding to Rapides Parish wildfire",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFFBY25Hamg5cWpuZ3ctMmZwalJrX0FaSGtGcWdQa3IwZmhIdzROMFpzOEYzMU5CeDg0V0ZrSFpjREdrT0xyNUFzLS1wcGpia3B3RzV2VldyVzMwZVRjbzI0cFpEdWxPUGR2R29yd01SY1cyS3JCblBxbDJSNXlubk9fUGVqbjdTT3Z2TW1OOWtLeW5qazh2Sk5VQ1NMUll4SUpfSlhRQkhxUlVDTHZKYkJFVzVzSXlYaXZheUJuRV9ZanpmbnN5Q2xVbVMtQlM3ZVNiVmlpUnVuOHFrN1RwSQ?oc=5",
-   "source": "Rapides Parish Journal",
-   "feed": "Line of Duty Deaths (news)",
-   "category": "LODD",
-   "summary": "",
-   "date": "2026-10-16T19:44:51+00:00"
-  },
-  {
-   "title": "Recent Rain Lowers Connecticut Wildfire Risk at Historic Low Level",
-   "link": "https://www.firehouse.com/operations-training/wildland/news/55412455/recent-rain-lowers-connecticut-wildfire-risk-at-historic-low-level",
-   "source": "Firehouse",
-   "feed": "Firehouse",
-   "category": "News",
-   "summary": "Despite a low brush fire risk, officials with the Connecticut Fire Academy said a single spark can quickly turn into a fire that threatens homes, property and whole communities.",
-   "date": "2026-10-16T15:52:10+00:00"
-  },
-  {
-   "title": "During Honeymoon in Puerto Rico, Fitchburg, MA, Fire Chief Tackles Flames in Restaurant",
-   "link": "https://www.firehouse.com/operations-training/video/55412433/during-honeymoon-in-puerto-rico-fitchburg-ma-fire-chief-tacks-flames-in-restaurant",
-   "source": "Firehouse",
-   "feed": "Firehouse",
-   "category": "News",
-   "summary": "Fitchburg Fire Chief Dante Swarez used eight extinguishers to quell the flames before firefighters arrived, about 30 minutes later.",
-   "date": "2026-10-16T15:33:16+00:00"
-  },
-  {
    "title": "Durham firefighter killed in line of duty honored with celebration of life this weekend",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGtHOUhNdUlKTEllTFRxdFJaMnJzTndEU1BMMkJtRlVvTnpFaVdYMFFPMnpLY1ZtY1IyNDhfd2dGSnpXY0dWbFQ0T1d4RmxBVXFlX3NnTF92UXJfR0lZOTlNSzZQaE1XdGxvTmJrdGNaMzVKVlVYZ2s4YmgwSXVpWXp0UmlBTGNCTE5vaUNnamE0c2FzSVE?oc=5",
    "source": "WRAL",
@@ -1022,15 +1049,6 @@
    "category": "News",
    "summary": "Full-scale experiments address suppression, firefighter exposure, reignition and when an EV incident is truly over",
    "date": "2026-10-15T20:10:56+00:00"
-  },
-  {
-   "title": "Mass. Legislature works toward free cancer screenings for firefighters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDRDMGgybWYtSUpTbG5qMEVIUWJHVjhjcC0xS2pjYnRDX0c2dHBqUTVqYUtZWGZWMEliWFp3ckFPc2M3MVNlNXFmaVpVUnZHcnlFS2F1LWFQR3dzdkxSQTZ3NElQS09OYWlDTDExTUFFNEJXMVZabG9PWkxWUGJxWFd2Mmk5NTczU0xNT2JRcG5rem9PbXhRRlVIOF8?oc=5",
-   "source": "WBUR",
-   "feed": "Line of Duty Deaths (news)",
-   "category": "LODD",
-   "summary": "",
-   "date": "2026-10-15T17:49:43+00:00"
   },
   {
    "title": "NIOSH wants to hear from you: Survey to improve firefighter death and serious injury investigations",
@@ -1071,7 +1089,7 @@
   {
    "title": "Swanton firefighter\u2019s death from cancer to be treated as line-of-duty death",
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb3JhUXQ5N1JXT19LcXNsT1FTdmVnUHhyVkN1OU5VWExTeGZRckZ4ZzdGd1NNMVE2ODBVUDRNVVRqVEljZmZPMG5UdGNXTzc4T19PYWlpQ0hleGhmVTgwaDdJNHNEVTEySDBLcDFkNk9RTmEtbXgwYnZPNnBwYXdtYmFqZ1RXblY1VmtYMDg2Qi13ZTFmYWZibms5Y28yT2NYOS1FdGZOOGxpT3VYV2VWTWNrVXlZTnA4NlVtamMwSDdHUnlBdGtpMnNOaHBMWEVMeTRjNF91dzBvUkhKNnZKMUJYano4My1YXzJjbDliaHBzSzJNdFlIcFZMYVBWTGM?oc=5",
-   "source": "wtol.com",
+   "source": "WTOL",
    "feed": "Line of Duty Deaths (news)",
    "category": "LODD",
    "summary": "",
@@ -1084,16 +1102,7 @@
    "feed": "Orange County Fire Rescue (news)",
    "category": "Local",
    "summary": "",
-   "date": "2026-10-14T16:50:34+00:00"
-  },
-  {
-   "title": "Woman sets fire to home after fight with homeowner, Belle Isle police say",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUzFwSWVMb281SXpPMlhOTXlIVk1KcE9pc3ZzRUdEaU9fTDVYQkhfMVBodjlRckc4RGRxV1UwaTZlaGhsSmxBd0xEa1VkRUdxUkY0SzFZR3QwUm9VMURkMjFSTTF0bDFMQmlXVjVGTVJEbW9lekxISmQ3TFZFMy1BeG51VFJJb2xzRFd1Um1UYU9WcG9jZTV2THZLVkloNEIxYkpuQ2gwZWxnVWR3bmNxVlhfcXRXR2d2MGlBYUpWamdFUQ?oc=5",
-   "source": "WKMG",
-   "feed": "Orange County Fire Rescue (news)",
-   "category": "Local",
-   "summary": "",
-   "date": "2026-10-14T15:52:35+00:00"
+   "date": "2026-10-14T07:00:00+00:00"
   },
   {
    "title": "Covington Firefighter Who Died in the Line of Duty in 1936 Added to Kentucky Fallen Firefighters Memorial",
@@ -1132,15 +1141,6 @@
    "date": "2026-10-12T07:00:00+00:00"
   },
   {
-   "title": "Texas firefighter dies in rollover crash responding to fire",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWw3REJNWlI4MXdPUHUtMlVmQkRnRjJrQjJ3NWx5TXY4b0RwYzFadHlVMWs3VXo4WUd2eHdQb0drM2FycS00blFSaTFlZHV4OFYtUE5kVkZ4X1FhRlZnajFod3dwOWYxMVJJUUM3QmszdkJFVnctRGlBY3E3N25Ld01Oa0hXVjRGVzlqVVQ4V2hiaTJ6MVNSYnNFVWFEa1hsd0U5dVg2WTJNQXZJSnJRTQ?oc=5",
-   "source": "FireRescue1",
-   "feed": "Line of Duty Deaths (news)",
-   "category": "LODD",
-   "summary": "",
-   "date": "2026-10-12T07:00:00+00:00"
-  },
-  {
    "title": "FIREFIGHTER DIES IN RESIDENTIAL ROW HOUSE STRUCTURE FIRE \u2013 BALTIMORE, MARYLAND \u2013 OCTOBER 10,2006 \u2013 NIOSH FIREFIGHTER FATALITY REPORT F2006-28",
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZnotMlJiRWtUTE5CQmo0eE41VkY5dFU1ZjZMRmhKV19KU3U3LVZOd1lpb1U2VlF5elNIbEVwTG15UC1KakVZa0tiajJzYy1IOWtseWJIbG9LVnMwbjd5VUd2TVpGV0R0WWtkeXpxRWlId2NmOU1HX3Bxemk5WFEwS0VYUHQ2eW9iS3JnbWdJOWQ1eXZMdEpSbmdKRWZsZE1NWEU2cnBvZDJJbXU4eVF6Vk16Z1hPX3NyTlRZSTVrWjdFa09fWmczcTBWWWdzRjN4eFdlQnVYY0lsbndRMV9QT2JHd1dob0tYNVlFXy03dE9scjZhU3NBU1E3a0tLUjFibnc?oc=5",
    "source": "Firefighter Close Calls",
@@ -1163,6 +1163,15 @@
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmh6SllZTGxEaE1PV3liU3o3aVFnZUdVZ09MZVNwaU5BeEJESlpXQ09RSzJ6QlZXaWdhSVI1VXhWQnBBMERQTi1QSzcxS0hBSElQU3BUckVGREJRc0RRakdxV3pKSWUzbTFzRExFZWtEWk5QeGlGajExN0xOaDkwQ3F0bm9tdFNZZHQ0T2l3X2Zsa20xSE5VdlBCTzFBN1NOM1lWWEVMODd1ZUQtYW9vTFd3WldoUktrVEQ2S3JOSzdXbUVuN2lvYUREWjBXMUlOLTZ4Y0VR0gHbAUFVX3lxTE14NGk4OHY3eUxXanAweDVfbXRjT25VU01GdHVtaERubDVtMV9SV2xCbVM2OHpmMkRvUllzcmlteHo5aTZVZmhlUmw4LUdFby1YTUNqNmM4UFBYRXRmUVJpNzhhaTFYa2FyWHFuTlZMSGdHS1Q4amFjWl9zalY0NWdZbklKMHZ4ZEJWall0VFRVaWJjUFBWallreGNQYnloMkFpU3ZpbEVjTDA1S2h5ekN0dkp1UkRQUkpjOTlaOENMdFZUSlBFZXdBbXJTcWwwUXY0YkhVX3lsVWRsSQ?oc=5",
    "source": "ABC11 News",
    "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
+   "summary": "",
+   "date": "2026-10-09T07:00:00+00:00"
+  },
+  {
+   "title": "FIRE LIEUTENANT LINE OF DUTY DEATH-LT FALLS THRU FLOOR-UNACCOUNTED FOR-NEW NIOSH REPORT",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjNERi1YcHZ6X1ozei1uRzNYM29rUWt5aEhkaldVaVVtMWlLQklTVEswRnAwTTU3a2x5ZlFCdTNvNXZjWXFPQ1BvbzdJVzRwVzJ6NUJPTjMzVlN3b1FWeWhFc0xVaFZuaHZwNHZrV01ZaHdkc1kzOFYySGsyS0d1SllpNXJSc1NUdlNRVURBRGVSaTNOYzlUSVhxbEZ0dHhfMkVOb3dSTHBkU2MwRVVoN0k0SjFsSlVZeFFNdUxjX21iZEtP?oc=5",
+   "source": "Firefighter Close Calls",
+   "feed": "NIOSH Fatality Reports (news)",
    "category": "LODD",
    "summary": "",
    "date": "2026-10-09T07:00:00+00:00"
@@ -1195,24 +1204,6 @@
    "date": "2026-10-08T07:00:00+00:00"
   },
   {
-   "title": "Palm Beach County firefighters deploy to Florida Panhandle ahead of Hurricane Isaias",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOTdxdFNzcGRfT1RCS0NZM3VXMVpBSmNMRXRLNG9fNFRlNldIQTEwWjE0bWlpRjE0U3RaMnEySnlXZUxHVTMxbUhvc2hOem5BbXRyVFY4ZllxNEZhTmhFeW1ydVh0M0JWSm14UmhGRHlrQTEzQXI2d3pFS0ZmcUdJTU1mVzZiOGRYN2hjTkY1VXdQa2ZXN3BQV3FVUEo2MnRwdFVUYUxNd1A2UlBkRGQ4Tw?oc=5",
-   "source": "WFLX",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
-   "summary": "",
-   "date": "2026-10-08T07:00:00+00:00"
-  },
-  {
-   "title": "Firefighters extinguish mobile home fire in Stuart; cat rescued",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNdXJrX1JadzlmelVXblpNSjkweERTOVpka2QtcDVEOGEzMFRZdGJoMG1pWlJLS0ktUUF3WV93UzVFRVZrd3lBeU1xcGVjWkI0N2trWHZmTTRqdWdPVHJTZko4QlhQcEk3aGRrQUw1S0VuNkwzNjlOb0xtbVRWLVVvN1dWcE9fNHVma3Nlc3pwcE5jM3FLRkNKdDlmY1J1c20xeFltd1dFNmdKbEFHVTNpdHhNY3hYNk1tY1pEdUtfOC01a2lTRjIxTU5oNkNoUnQ2UEh3blYzemZfOUlWYmh3LUJMOEQzY2tZN0N1UHVtSW9QSV9ZZko3a212LXNqdWlqZ2NSTlVPSHR0Q3VseTROam1md01JS1p2cm0tVmE4aFE?oc=5",
-   "source": "cw34.com",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
-   "summary": "",
-   "date": "2026-10-08T07:00:00+00:00"
-  },
-  {
    "title": "Central Florida crews deploy to Panhandle ahead of Hurricane Isaias",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHRkVGcxZUw3RnhiS0xiSk5NYUo0OTBBRk5uT3Q0N1ZVbXJROE96ajhKYlM0aDhpcWpNYmZmU0lEemh6VEgydm9wb2VTVXFFNVFkSzlUWExLVzNZaTdZVzRPUy1SX0tzb3lFRmtnUmxtVXZicDUyVjYzOGZCZ0s4cVhlelhCdEROd2F6eFRLUWlhc0dsRVhTNFhzLWlPOXpaREcwdFdjTnlINXhlWkRlX2xoQ2p5UQ?oc=5",
    "source": "Spectrum News 13",
@@ -1240,6 +1231,15 @@
    "date": "2026-10-06T18:31:41+00:00"
   },
   {
+   "title": "UL Research Institutes, APS Integration to Expand Training Access",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObkxiSFNsb3BtTjhvX0JhWDlmdVFvRDR3bnE4OGV0Y1YzQTQ4WTlUTU85amZGM0tNcHl6NkJERTRIZ2wtNGpYSWo2Y1dFcGhsMHpLdHlUY0xGcjdVZTdUbTd5MVZ4R1VQcVhYOU12YlJLOWlfak1lTEVzdmFjMFpkQ2Vsb0lTTkxmSTlwajNiei1YYUNJdHBtbUJ2OGtfYmdDYXFZZUlFQ0FCYzFucWh0Z1BTZ2Q5OUJPcVlHUHJIRGVId1diY2RaWUVEVXptU3kxSTg2cEcyZ3QzQUsyRW1ydmpfWTB2dUVHaGhOcFg2Vmx6OWZvRFg0akJTRl8zamNNQWZwbi1zQXVXdFdmZXBrSF9mRTlyVVRqakdWZE0zRExQNXc0eWlz?oc=5",
+   "source": "firehouse.com",
+   "feed": "UL FSRI (news)",
+   "category": "Research",
+   "summary": "",
+   "date": "2026-10-06T13:06:03+00:00"
+  },
+  {
    "title": "Chaos, Missteps, Command Snafus at Palisades, Eaton Fires Found During UL FSRI Probe",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVHUwTmhJcXNFWmRySnlWVjczd0V6SkpDeXhBTHVPLWxweEp5LVp6MTBob1JkTXNpbjA4d2tjXzQwYkdacVJOZzkyWlh6QzdPOVhYRlJNTEd3VGx6ZF82Q3duYkpXeUhHV1dRQ0w4MnkyVkNucktVYy0xbTlpdl9KNEZtamxsaVRsWkdyZTBYT2pRdDIybFhmUE5iaTU5ZlBJdXdabjhQV1lnYlZfYm1vWm5LN3VBMGJLYy1TQWNqU3p4a1oxczM0ZWVNZTgtSWht?oc=5",
    "source": "Firehouse.com",
@@ -1262,6 +1262,15 @@
    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUWMwZ0x2dnlCeE54SlNSZlYwT1AyMnA0aUROZkhYSWtud0RxYXhPUGlJNDBlN2FyQWJNVDNUSHFvZ2U3SjFQTWJTRFZCY1pUUGVMUHp6X1NIbWFOVWhoMTlUNHoxaGNLVENNZXA0NXJiYmJEZXpPRjV1Z2R6eVVBLUNYcVRKcFZscjhoMS1kQkpVZVJ4S1ZSZi10T2RvYklXbGhTTG02NkdPRHFFZFJYM21fdHFSNWc3N2thU0llS0RsbnhxRGJ1UHRkU215Z1p5RU44dHNDRGRlckR4TE9zRHh4dm5qWXVSaEhWcWtHYkxtQk1GMjZsaXVFY3NkMTdSZnc?oc=5",
    "source": "KATU",
    "feed": "Line of Duty Deaths (news)",
+   "category": "LODD",
+   "summary": "",
+   "date": "2026-10-05T07:00:00+00:00"
+  },
+  {
+   "title": "From report to drill: How firefighters can train with NIOSH investigations",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVy1reEJiR0VCMHJDNVFySm53VXBFTThSSWt3NEh4cEhaVVpFX2FZR3VwSERIRWJuOEZkbS02TkR1OHBVa294dlRTdlVnS1NmWjNyUmR0RXdISWRRaE80ZjBDNG1OdlpTbDJ3Z2lrZE05WkpyTXl3NTk0akxXTGJmOWRRaDlHQ2tQaGVrS3FnYlNWX29EOTl2X3k5dUUxQVo2cGFzSlBOZl90UGU2ZnMxZ0NRamM3bzN5VzhMdXl2Zw?oc=5",
+   "source": "FireRescue1",
+   "feed": "NIOSH Fatality Reports (news)",
    "category": "LODD",
    "summary": "",
    "date": "2026-10-05T07:00:00+00:00"
@@ -1312,15 +1321,6 @@
    "date": "2026-10-01T07:00:00+00:00"
   },
   {
-   "title": "Floridians should ask what's next if Amendent 3 passes | Opinion",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVl9mcDVhUkViVk05WTRRVEs2YlM3THNSN2toWk9YTXU3Vm43ZjV5Q1JzbFYxM1U2YWJKN3loN1pwZ3hZT2tfbzF6S0lpS0puNXcxSXdNS0FQMWoyUHVUS2ZIalpteTlrWGlpVUZoeVl2aUNjTUZVa0hfRnNDWVAxVXZuM216SmxlYWxvOHljRkdNQVdGV01RbFBjbFZwT2p1Qjh2SFRILXFuLXFuSVFrNE81eDVtdmVHck9HTERnWQ?oc=5",
-   "source": "The Palm Beach Post",
-   "feed": "Florida Professional Firefighters (news)",
-   "category": "Union",
-   "summary": "",
-   "date": "2026-10-01T07:00:00+00:00"
-  },
-  {
    "title": "U.S. Experience with Sprinklers",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQlBibkpWRndzemJFNldmay02VWxuSEJMYUxaOFlBV09BWXhnQkVGTDZDVUJuNjhvc2hMS29aMmhuOG5MRC1vSWpKZ3VhMG54X0N0cEtJeWdrOWpBeThXQjdzeEcxVFVrWjBsR0hXRUFvb3l2WXBuZnBTcWVHV0FuLVkxSWJRc3cxMVMtUGZLWE5mTlMydkJaN1BKd0J1cC1BQkxuMDBwWlJaMV9Bak12X3NkMGlZX01WX2NOTWJn?oc=5",
    "source": "National Fire Protection Association (NFPA)",
@@ -1339,22 +1339,13 @@
    "date": "2026-09-30T07:00:00+00:00"
   },
   {
-   "title": "Martin County Fire Rescue extinguishes tractor-trailer blaze on Florida Turnpike",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVENCY25MTlhNT0hQZWx4bjlhdnBOZElFSzBkbk9wSkljazJqLXJkcGpCeDZKUnVJMlZacVgta29temllUVc4aWxMOG5nckN0eXMxcVNfeEExMHRDZVNLaDBGellWbmZxMVBFaFpFTXBwcXpqODdHU18yYWl6eFlxczYyZ3VGNWlqdS1HY2pPWlNEdkJfMzJuUzJWMTYwNnBiRklybk9zLVcyWHlzRjBxMmVDR0ZGOFcwcWZJclZ0cG1YRjZMS1YzZ05SLUdDT3FVSkxRMEI3NlY2NHU3V1pRbVRMbGdKVFR2VElKVElaYw?oc=5",
-   "source": "WPEC",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
+   "title": "NFR for Cancer Newsletter | Firefighters",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SWGN6emtodEE4NHNkVUtEcUFXNlZ2V2dLUFdibVJTWV9iRWtUd29tS1RlbExDbWp4dDRqS0N1WlVVOTNoQUxCNDhfQnJzOWpCckFPRFh6bFJwUGJKV3BoVzdjS0IybDNBNVBqOTJwZXc?oc=5",
+   "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+   "feed": "NIOSH Fatality Reports (news)",
+   "category": "LODD",
    "summary": "",
-   "date": "2026-09-29T07:00:00+00:00"
-  },
-  {
-   "title": "Tractor-trailer fire blocks traffic on Florida\u2019s Turnpike in Palm City",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWRGWC1NX2lOSDJUSnJhV3daeHNMeGQ3Y25PU0pydUZreWNUOE05YnA2bmw5SEQzdklzOWE5QldXVFZFM3B3R3pWa3BwRVZDQ2wtN3pRTWZGQ2FYTTRTVDhuMVNheTQtZXM5dVpYSmwwUnJTZ3J5SE1zeFg1TEVRdWlWQldvMW1aR3pQRDMzQQ?oc=5",
-   "source": "WPBF",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
-   "summary": "",
-   "date": "2026-09-29T07:00:00+00:00"
+   "date": "2026-09-30T07:00:00+00:00"
   },
   {
    "title": "Multiple views from inside Pennsylvania house fire",
@@ -1393,15 +1384,6 @@
    "date": "2026-09-27T06:06:25+00:00"
   },
   {
-   "title": "Two fires in Northwest Florida, pet monkey safe",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFRXTHFuR1ZVQVlEVEZ1QTBBZ2E0MHVIV3JWalBmOXhfeTRQcS1aTkxYRTZ0STFhbHJhMHFib3VETEs3YVBxbnVFRXZzTmlOTXc0VXFNNUJ5UWFpQ0lNaVJuMFlFa0lRY2pEOTBSaDlZMlZ3ek1mS1dPazlZdVVEUWNUR2xYZ9IBmgFBVV95cUxNWFpFUzhVeUh4bVVwS2R3TXUyUFkycEVRY3dMdjAzUWhrOEljaVRNX2NFLU9aTHVQdXZqNEZJRHE2bGVFc0VvcG1ybzgtX1pSaE1EdDNUYXVZX2QwYVJtTWJwUUE5SXkyWmdwRU83cmtpeUZWZmdoUUdVQkU5aHdJdGNiVGJiTlg4d0JKOFZVWnBvN241YnVmcjBB?oc=5",
-   "source": "Fox 10 News",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
-   "summary": "",
-   "date": "2026-09-26T07:00:00+00:00"
-  },
-  {
    "title": "On-demand webinar: What do firefighters really want \u2014 and need \u2014 from training?",
    "link": "https://www.firerescue1.com/what-do-firefighters-really-want-and-need-from-training",
    "source": "FireRescue1",
@@ -1411,13 +1393,13 @@
    "date": "2026-09-25T22:29:05+00:00"
   },
   {
-   "title": "Apopka approves firefighter contract with $12,000 first-year base pay increase",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnZMVmtfMTFQcWl4ckZZX0NybTE5c1B3TWlxRnE2RTZlaTVBbzNwS3dLTVVfWExFRnJiWG5MMi14b0l4bWxXU012LW4zd3Y1ejZqN1lOTXctVmhiSENSX1NRQW41NFdoOVFoTDlwRkxBc0U2Z0lGOWNTa2hnUTlMUS1oc1dSVk1ZbUI2Vi10WDBuLWc0YU5OcFc4ZExQUjFzLWVDc3BqM01CSzJNa2NiU0ctYXdxWHFiSVE?oc=5",
-   "source": "The Apopka Voice",
-   "feed": "Central FL fire unions (news)",
-   "category": "Union",
+   "title": "Technical rescue underway at Winter Garden industrial site",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUdiQl9pN09TZWExdTZEb3lLV1NXY3ZSX1hOd2M4ZlJ5V0Qtd1JydUJ5eXI5bUE1RU9OTENTbjJkSFJ0eDdoamhiLWEzRFFEYXEyX2FMVERPb2dwS1BGN3ZwX2VkbGM0LUlHVFFfek1VNUZub3dNQ3RraGNEZjVPTTNJZm9RWmRIRkh4emlJVzdkSjlfcFRkZ01HTDJ4UDdHdnlJRUJkZ00taklXay1CT3gxVdIBxwFBVV95cUxNOFdtd1Zyb3Q3aTNsUVl6Z0tvWHhaVWJURmxTMkJpaGFsS1VIOEZsVGlFZVBCYS1yeW80MnNYSldCV05Dbkc0Y0E1eExIN2JNSTRpSEdBVENsY0N2S2hEN2VuQmxMYnAwQ2xRYm53OWNpZl91QTJRR2FSbk4wbTh5WnhHdWNScC1reUJJcm52NnlfNGwtbExLcEVxdDFRa0Z0QVVmbWU0SnhmU2UweWdkb0ozUlZOYmxnQVlrOFB2eTZWcTJadDZZ?oc=5",
+   "source": "WFTV",
+   "feed": "Orange County Fire Rescue (news)",
+   "category": "Local",
    "summary": "",
-   "date": "2026-09-24T23:01:00+00:00"
+   "date": "2026-09-25T07:00:00+00:00"
   },
   {
    "title": "The firefighter decon guide: Your playbook for reducing exposure and contamination (eBook)",
@@ -1438,31 +1420,22 @@
    "date": "2026-09-24T07:00:00+00:00"
   },
   {
-   "title": "17-year-old Pa. junior firefighter killed in e-bike crash while responding to call",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcEhhOVlHc0JZclVKVGRuY0RvUWg4M1RFeGFGUzdrNG8wdkp6TmJ5TVRMWFFVRk10cEFrZTdJUVVSWmJCdzFTNnRnMUp5YXB1cnN1clh4MjBRS091SVdjTFVWQ0NfRFg0a3hiakNMZXUyQ0dzY2ZIcVN0bDZ0Z1l0UTgtNFBLWHprNl90R2dnOEhXSmJPelU3N3RDZlBlUm95RHFLYWxBVDVHb2dkMjNrOW1FUHQ4b25vSWpCOWR1VDBSWnZUWGtheFdTX184UQ?oc=5",
-   "source": "FireRescue1",
+   "title": "JR FIREFIGHTER KILLED RESPONDING, LODD Accusations & Frustrations (The Secret List)",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQazFoWHFiUE53MVEtamg3ejdZbkZjY1lPeTVCdVRRTWpRTW9xVlVtQ1VtUWJEUlpISFB0REs0WEZ4d01UQ2R6X21rWU5IcHc3ZnVKYjA2Q293bnVvS1BoQXNKbHFpeG5KWHBLcHlEV0RwdTc0LXZZSGFKQVVuTDlIaGtoNFJ4UXdQeTRRb2VoTlZ6MzdqT1Y4TWl4dnRxYzVQNnlRS0Z1RFJwNFdGR3RIdVp2NmpScTlQ?oc=5",
+   "source": "Firefighter Close Calls",
    "feed": "Line of Duty Deaths (news)",
    "category": "LODD",
    "summary": "",
    "date": "2026-09-24T07:00:00+00:00"
   },
   {
-   "title": "Fallen Firefighters Memorial Service",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00eFctQTRkTlRfVzhFb2dYSU96QktkOWdRWWJkRnJLc3k0ODFLVFJJcjB0WW05b3d0M0h3MXg3c0tnMEpNWW1xVFhPRmY1dnFvN3gyQmQ2NEZtbVlQMlMxRkZHM3ozOWQ0U0lfNExhVHQycXNObndWdQ?oc=5",
-   "source": "City of Knoxville, TN (.gov)",
-   "feed": "Line of Duty Deaths (news)",
-   "category": "LODD",
+   "title": "Apopka approves firefighter contract with $12,000 first-year base pay increase",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnZMVmtfMTFQcWl4ckZZX0NybTE5c1B3TWlxRnE2RTZlaTVBbzNwS3dLTVVfWExFRnJiWG5MMi14b0l4bWxXU012LW4zd3Y1ejZqN1lOTXctVmhiSENSX1NRQW41NFdoOVFoTDlwRkxBc0U2Z0lGOWNTa2hnUTlMUS1oc1dSVk1ZbUI2Vi10WDBuLWc0YU5OcFc4ZExQUjFzLWVDc3BqM01CSzJNa2NiU0ctYXdxWHFiSVE?oc=5",
+   "source": "The Apopka Voice",
+   "feed": "Central FL fire unions (news)",
+   "category": "Union",
    "summary": "",
-   "date": "2026-09-23T21:03:47+00:00"
-  },
-  {
-   "title": "Broward County, FL, Takes Back Fire, Rescue from Sheriff's Office",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb0xic1pLa3VwSGpMZHNHamk0d29fdTlwZDhlVGVOcERkWDdzX0hEX1UtMjZQb0xoX2s2Z3VaZ0RnUWNmQnp2ZEdFemxHQmh6MEZUSU00OFBsUkVDZUt4N2ZiSzlPMjJ6a1lGeXRvTk1JYUVtU0ZOcV93S0dCYmpnYUJTbW42ODFIbXAzUVU4VllRTVd3eXdkV2p0eW1LQzJtT21zRnhBZlQzOUk3cjFUM0tLa2I5NjdPZmRLZnpkTUJ5djdI?oc=5",
-   "source": "Firehouse.com",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
-   "summary": "",
-   "date": "2026-09-23T07:00:00+00:00"
+   "date": "2026-09-24T07:00:00+00:00"
   },
   {
    "title": "JUICE\ud83c\udf4a\u2014 9.23.2026 \u2014 Dandiya Releases First General Election Ad \u2014 Florida Professional Firefighters Endorse Alex Rizo \u2014 and More...",
@@ -1481,15 +1454,6 @@
    "category": "News",
    "summary": "Download this field checklist for establishing and adjusting hazmat control zones",
    "date": "2026-09-22T21:26:10+00:00"
-  },
-  {
-   "title": "Estero Fire Rescue to host career expo",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3MzSnZKcUd2N3BhZHlqZlNjdXhSUm5hZjlqMzlxWFZ2a0JCSWhjYWtJYXV3Z0R2T3ZBVy0ybk5PY3ZadjdjUnRwRjU0UHpXMl9MaWVKQkhmZTZVUmQ5Y09jaG9zaE85X3ZNSFZyamR1ZGJfbmNuZC13UTc3cV91MUo4M2FKOFdzRHZ5QUxPR1NRUC1kWnh6b3lmWFF2TVN6LWJoSjN5TWloSFBoc3I4U19rOA?oc=5",
-   "source": "WINK News",
-   "feed": "Florida Fire Service (news)",
-   "category": "Florida",
-   "summary": "",
-   "date": "2026-09-22T07:00:00+00:00"
   },
   {
    "title": "\u2018Shoulder to shoulder\u2019: Alex Rizo nabs Florida Professional Firefighters nod in SD 39",
@@ -1582,15 +1546,6 @@
    "date": "2026-07-29T07:00:00+00:00"
   },
   {
-   "title": "3 more labor unions endorse \u2018strong advocate\u2019 Jos\u00e9 Javier Rodr\u00edguez in Attorney General race",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ25UWWdhRFkybU5mRC1YdE16NEQ3UVo2WDdhU0Z3ZnRTMXBORXl3VnVGMzlzalo2cU1lMHBfdVliRHc0alpvQXZKYno1SEkybGxIcjcyYU1jWUs2SHRBRXhpa0c4TWpLMmVkYlVLRDZidFgweVBxX0JoYnJ6bVVQUFpSSmpDT1pibWoxSllSNnZwZ1ZVbjR2d0E0VVZBZjRDN01HNlZSc0RYckVnbWRKTGNNT0pUSUJpeERWaVppZkZ0Rnd6RzE0M1hCemJVLWlP?oc=5",
-   "source": "Florida Politics",
-   "feed": "Florida Professional Firefighters (news)",
-   "category": "Union",
-   "summary": "",
-   "date": "2026-07-23T07:00:00+00:00"
-  },
-  {
    "title": "Firefighters join chiefs against Florida Amendment 3 property tax cut",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkFHdjdkVWpnWERaQmlpV244WFFLczRGS1dWalp3aEZjTUYwN3R0aVFtVU1mZWxINU40LWU0Sk12ZmZtUFZ0X3NDSmFnMHJiSGpaUkZDUjREYlpsWVQ2SExVcVVjUTVvNkxnQjFGTjk1UVhqVk1OSHUtNlVfTVZ6OHU3QTdtZHh0VDdjQnBIT3lWcHFNdzMtTVNWTTktXy1ackZWSi1tR2lUYmZfOTFpdlpBOWczQ1NUcjFxZUNNZFphOEhlV1U0?oc=5",
    "source": "Tallahassee Democrat",
@@ -1598,6 +1553,15 @@
    "category": "Union",
    "summary": "",
    "date": "2026-07-21T07:00:00+00:00"
+  },
+  {
+   "title": "Sanford firefighters at impasse with city over contract, state hearing on hold until after November",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLVc3Sm0tQXM2ZzAtRWVYQ0U5Z0htQm5PYXQ2YXlGeXlkdGgyMzBZRnRrOXBwNU9OazV6LTBzYjNBWjBaWjkwX1NmaG9aVVBfdEhjVmotdVNkRzVXWG9SYlhscGR1SmpqNWtORGh6Qzh3alRiRTNObVlybWRRVVR6MUpnZ3V5cm1ScXZLQWFWNkNJaWc4S0pXTFhRd0VFWDdpZFpIaDlKa1phY2VaVWFfUGUyUGtXTXRJWjctcTlhejF0Z0hncmh2clI0eUN1Rk9tejRNNXctMlhWcWNSeVp1UTZ3bkN6ZzDSAfsBQVVfeXFMUHpFemtDemE2SjhLRGhBcVZhek9lN3k0SUF5ZWtrcG5TUFNIYXVHZlJDMTdkRGdQNnpVYUszeGJ3cEdqRjFRLW12R3BlMUoxclRpQnFDQjJTUFNDTm5jUDVTN24xWVh4NUdyN1NJRjBudDh6TnZkbXRWb0RUZnRTd1J0eHpIRlB6a2pESExvMzF5ejFCdnRHZlVmQVhXTnMxQ05LaHpRbWV0bjkwSVV6djk1X01WS2sxcWd1enFQUXNMbkk5VC1xbEE4ak5OOThTMTRRVTZnUHFoQjRzVkFSYWxCYmNuWGhKcEExcS0yUUhnNGNFYXBQYkpYYzA?oc=5",
+   "source": "WFTV",
+   "feed": "Central FL firefighter contracts (news)",
+   "category": "Union",
+   "summary": "",
+   "date": "2026-07-17T07:00:00+00:00"
   },
   {
    "title": "Polk County firefighters receive long-awaited fourth shift to reduce burnout",
@@ -1798,15 +1762,6 @@
    "date": "2026-05-19T07:00:00+00:00"
   },
   {
-   "title": "St. Johns fire union say they\u2019re stuck without a contract; state impasse process now underway",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRWRNRmk2SnYtRVFRVUxaQW0yMmNEUFRBU2tlOWZYMUIzRXRXX19nTVZRQWpUX2xvQXBOVEx5YjRDY0hTQndGRjVWQXBxWkVOd3Z0Mnh6QXhTZDNzR2FTVk5ncUI1bkx2TGNWMUtzWWdGMnZCSFNnQkV5TkEya2lLOURzODNEaGcwZERYaV9uTHV5eUtrNk9nU0JSMlZ6RHIwUmw3aUFLQy1KZTRBbGEwaWI0U2Rkci1NY0hrVVJwVk1vbmxIaG5aVFpOa3RjbFItRzByWQ?oc=5",
-   "source": "News4JAX",
-   "feed": "Central FL firefighter contracts (news)",
-   "category": "Union",
-   "summary": "",
-   "date": "2026-05-19T07:00:00+00:00"
-  },
-  {
    "title": "Media Preview: May 19 Orange County Board of County Commissioners Meeting",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVpsZHNMYzY3cVQzWnpjYlhxME13aThHelZ4RTRuakl2dTg0MGZmWXBQcjB3aW9uUUxUQV9hVkpXVEZDLXN4YVBxWnZGOEdxNHNONmVjbjVLUzBKaUVWb0pKazJCc3oyYnA1TUZxTHh2TFlXSXlnM2F6UU50RWI0cm9vQ0JmUWxRTGg4YTQzX1V0aTJFTkhTZlRyUjhiSHI5TnJpazZUM3pqN2JoM2tQa18xS1VrOTJQeGJ3MU4tWXV4WkU?oc=5",
    "source": "OCFL Newsroom",
@@ -1850,15 +1805,6 @@
    "category": "Union",
    "summary": "",
    "date": "2026-05-07T07:00:00+00:00"
-  },
-  {
-   "title": "Inside the move to a 24/72 D-shift schedule",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkRrRm52Q2o2ck1zUWdfQk9hQXlyaDlrdXA5b1FCT0pIUjdJdS1DRWo4dWVucExWNkN4Mm1YUlZoNTdmRTNlT1pKTUVtM01sa2tnLXRkMi1LRHBmdjVia29ta09BaV95WkFMQ1NadGp6SG5iM1FCckRLd0JNMlVLbmZjakZ4cU5MVm5iLUIwU25jS2FUUEVXSA?oc=5",
-   "source": "FireRescue1",
-   "feed": "D-shift news (Florida)",
-   "category": "24/72",
-   "summary": "",
-   "date": "2026-04-28T07:00:00+00:00"
   }
  ]
 }
