@@ -1,5 +1,5 @@
 {
- "lastReviewed": "2026-10-22",
+ "lastReviewed": "2026-10-26",
  "note": "Built from union contracts, city/county records, recruiting material and news, cross-checked against a union member's statewide survey (Oct. 2026). 'Reported' means a credible claim without a public document yet.",
  "departments": [
   {
@@ -118,7 +118,7 @@
    "name": "Greenacres Fire Rescue",
    "region": "South FL",
    "status": "staffing",
-   "detail": "Not a straight 24/72: it is adopting a four-platoon, 42-hour 'Spartan' schedule (24 on/96 off/24 on/48 off), set to begin Oct. 1, 2026. The start isn't confirmed yet.",
+   "detail": "Not a straight 24/72: it is adopting a four-platoon, 42-hour 'Spartan' schedule (24 on/96 off/24 on/48 off), set to begin Oct. 1, 2026. The start isn't confirmed yet, and the city's fire rescue page still says crews work 24/48.",
    "source": "https://www.firerescue1.com/fire-department-management/introducing-the-spartan-schedule-to-the-south",
    "updated": "2026-05-26"
   },
@@ -222,9 +222,9 @@
    "name": "Gilchrist County Fire Rescue",
    "region": "North Central FL",
    "status": "staffing",
-   "detail": "Hiring now, with a new 24/72 schedule set to begin Jan. 5, 2027, according to a regional union post. No county document confirming it has been found yet.",
-   "source": "https://www.local4153.org/news",
-   "updated": "2026-10-01"
+   "detail": "County commissioners approved a 24-hours-on/72-hours-off schedule at their Oct. 5, 2026 meeting, with conditions (overtime controls, monthly reports, a one-year review). A regional union post says the new schedule begins Jan. 5, 2027.",
+   "source": "https://app.govly.com/public/meetings/99918",
+   "updated": "2026-10-05"
   },
   {
    "name": "St. Cloud Fire Rescue",
@@ -265,6 +265,14 @@
    "detail": "A union-compiled survey says Ocoee's FY2026 budget modeled 24/72 costs and estimated up to 21 more firefighters would be needed. The city's budget file couldn't be opened to confirm, and nothing has been approved.",
    "source": "https://fl-ocoee.civicplus.com/ArchiveCenter/ViewFile/Item/1816",
    "updated": "2026-10-20"
+  },
+  {
+   "name": "Sanford Fire Department",
+   "region": "Central FL",
+   "status": "talks",
+   "detail": "The firefighters' union is at impasse with the city, and work hours are one of the three sticking points: crews work 56 hours a week and the union wants to start moving toward the 42-hour week state law encourages. The state impasse hearing was put on hold until after November 2026.",
+   "source": "https://www.wftv.com/news/local/sanford-firefighters-impasse-with-city-over-contract-state-hearing-hold-until-after-november/BQQR3SOE3JDT7PISJHMHF345QU/",
+   "updated": "2026-07-17"
   }
  ]
 }
