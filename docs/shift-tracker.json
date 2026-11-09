@@ -1,5 +1,5 @@
 {
- "lastReviewed": "2026-11-02",
+ "lastReviewed": "2026-11-09",
  "note": "Built from union contracts, city/county records, recruiting material and news, cross-checked against a union member's statewide survey (Oct. 2026). 'Reported' means a credible claim without a public document yet.",
  "departments": [
   {
@@ -62,9 +62,9 @@
    "name": "Polk County Fire Rescue",
    "region": "Central FL",
    "status": "staffing",
-   "detail": "Firefighters' contract secures a D-shift (24/72, 42 hours) no later than Oct. 1, 2027, and the paramedics' union reached a matching tentative deal in October 2026. Both still need union ratification and a county commission vote.",
-   "source": "https://www.polkfl.gov/news/polk-county-firefighters-union-agreement-heads-to-vote/",
-   "updated": "2026-09-30"
+   "detail": "Firefighters' contract secures a D-shift (24/72, 42 hours) no later than Oct. 1, 2027, and the paramedics' union reached a matching tentative D-shift deal on Oct. 12, 2026. Both still need union ratification and a county commission vote; no approval found as of early November 2026.",
+   "source": "https://www.polkfl.gov/news/polk-county-i-a-e-p-union-reach-tentative-contract-agreement/",
+   "updated": "2026-10-12"
   },
   {
    "name": "St. Johns County Fire Rescue",
@@ -261,10 +261,10 @@
   {
    "name": "Ocoee Fire Department",
    "region": "Central FL",
-   "status": "reported",
-   "detail": "A union-compiled survey says Ocoee's FY2026 budget modeled 24/72 costs and estimated up to 21 more firefighters would be needed. The city's budget file couldn't be opened to confirm, and nothing has been approved.",
-   "source": "https://fl-ocoee.civicplus.com/ArchiveCenter/ViewFile/Item/1816",
-   "updated": "2026-10-20"
+   "status": "talks",
+   "detail": "The city studied a 24/72 schedule (42-hour week) during its FY2026 budget work. The chief said it would take about 21 more firefighters (roughly $2 million a year), and the department chose not to adopt it for FY2026. No approved plan or start date.",
+   "source": "https://www.wintergardenvox.com/articles/for-fourth-year-ocoee-holds-millage-rate-at-4-95-mils",
+   "updated": "2025-09-13"
   },
   {
    "name": "Sanford Fire Department",
